@@ -1,0 +1,3874 @@
+{
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Animation": {
+    "time": 1725548590666.0981,
+    "uuid": "971a6aaa-aa7a-41a1-a80b-e74252a3544c",
+    "missing": false
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art": {
+    "time": 1725548590722.5146,
+    "uuid": "dd7db289-9cce-422a-8aee-edff75cab724",
+    "missing": false
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Particles": {
+    "time": 1725548590763.6555,
+    "uuid": "7fef4e44-70ef-4252-9c52-89e83f2b785a",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Prefab": {
+    "time": 1725548590779.2925,
+    "uuid": "ee3ea39c-d0f5-46cf-9510-8030ac4d74c1",
+    "missing": false
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scene": {
+    "time": 1725548590779.2925,
+    "uuid": "4c8459e6-8398-457f-8d2d-f9718337be10",
+    "missing": false
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts": {
+    "time": 1725548590779.2925,
+    "uuid": "b0e16b25-b26c-4e4d-97da-71f938cd2544",
+    "missing": false
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\SkyBox": {
+    "time": 1725548590779.2925,
+    "uuid": "f098230d-bae6-4f4e-b8ca-11fe3e7033c5",
+    "missing": false
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound": {
+    "time": 1725548590794.918,
+    "uuid": "9304ec31-62d8-46ff-90e9-b846029b6b38",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Animation\\CTA_Anim.anim": {
+    "time": 1725548590666.0981,
+    "uuid": "55f88acf-c3b6-471a-94da-1206bf079cae",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Animation\\Tutorial_Anim.anim": {
+    "time": 1725548590666.0981,
+    "uuid": "8571f78c-93b2-4e2a-a572-f09ee14bdb36",
+    "missing": false
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Font": {
+    "time": 1725548590681.7205,
+    "uuid": "7680fda0-49ee-44b8-a5c6-463f9916e371",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Line": {
+    "time": 1725548590681.7205,
+    "uuid": "c82a29cf-10e0-41ae-bbfe-787738e19b49",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Map": {
+    "time": 1725548590681.7205,
+    "uuid": "4a75c036-3166-46ee-b93b-f5480d9731e8",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Robo": {
+    "time": 1725548590722.5146,
+    "uuid": "a6b8c1ac-c742-4e97-9254-529472d608da",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\SpriteFrame": {
+    "time": 1725548590722.5146,
+    "uuid": "63511267-74d9-4019-9c75-85aeec233d03",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx": {
+    "time": 1725548590763.6555,
+    "uuid": "ce2a4493-881f-4ab0-bb99-be502ee2060c",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Particles\\FireLight.plist": {
+    "time": 1725548590763.6555,
+    "uuid": "f5ba69fa-2f97-4c40-90d2-12cc09a557f1",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Particles\\FireLight.png": {
+    "time": 1725548590763.6555,
+    "uuid": "d13f3ea0-a09f-4970-890a-1c5e5a388f62",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Prefab\\Robo_First.prefab": {
+    "time": 1725548590779.2925,
+    "uuid": "c44363d1-d958-43ec-961d-ff18d0d6474b",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Prefab\\Robo_Second.prefab": {
+    "time": 1725548590779.2925,
+    "uuid": "0f5575b7-2c69-4ceb-8379-5f73ed721b1b",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Prefab\\Robo_Third.prefab": {
+    "time": 1725548590779.2925,
+    "uuid": "4c5cfca8-3ce0-4288-95fe-1059c2c0292f",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Prefab\\UI_Robo_Level.prefab": {
+    "time": 1725548590779.2925,
+    "uuid": "c1cbe673-6a8c-4d97-ae03-7512772b8085",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scene\\Op12.scene": {
+    "time": 1725557706557.0708,
+    "uuid": "ba770f42-b1bd-480a-812a-b2d060f264d8",
+    "missing": false
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scene\\Op13.scene": {
+    "time": 1725548590779.2925,
+    "uuid": "3affa667-830a-462d-8864-0032382c3d46",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\AdHelper": {
+    "time": 1725548590779.2925,
+    "uuid": "8451287e-62a1-41a9-884f-385e91dd6f9a",
+    "missing": false
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\Const": {
+    "time": 1725548590779.2925,
+    "uuid": "d9110fee-f3d6-4f7c-89ab-dba711f2dc23",
+    "missing": false
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\Controller": {
+    "time": 1725548590779.2925,
+    "uuid": "cd690fdf-2f9d-4a2c-b010-2de7144c86be",
+    "missing": false
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\GamePlay": {
+    "time": 1725548590779.2925,
+    "uuid": "b9e24c7b-4dfb-405b-8e66-3cd7c458f4aa",
+    "missing": false
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\Others": {
+    "time": 1725548590779.2925,
+    "uuid": "1a494f87-d208-4166-b4f3-9efde4684997",
+    "missing": false
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\Robo": {
+    "time": 1725548590779.2925,
+    "uuid": "227f46c2-c800-48f8-9d71-0c294d43d914",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\Utils": {
+    "time": 1725548590779.2925,
+    "uuid": "7cd0790a-c302-48bb-b183-279a1ae53564",
+    "missing": false
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\SkyBox\\default_skybox.png": {
+    "time": 1725548590779.2925,
+    "uuid": "09b14ffe-3ef0-4ccd-b5d5-0a9e54f89edb",
+    "missing": false
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\bg_main(1).mp3": {
+    "time": 1725548590779.2925,
+    "uuid": "f64f3bfd-0f5a-4a31-95e6-6405b1800ab6",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\bg_main(2).mp3": {
+    "time": 1725548590794.918,
+    "uuid": "755189f2-dde4-47a0-9cf9-a3f5cf61c402",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\Ig_BreakWall.mp3": {
+    "time": 1725548590779.2925,
+    "uuid": "05231d03-dc7f-462a-89cb-7bcd1e2634c4",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\sfx_click(1).mp3": {
+    "time": 1725548590794.918,
+    "uuid": "8708133e-0ea8-488a-bb1c-a9ca11fc7079",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\sfx_click(2).mp3": {
+    "time": 1725548590794.918,
+    "uuid": "df7a3a45-9884-4617-a503-3db7a3c79c0a",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\sfx_lose.mp3": {
+    "time": 1725548590794.918,
+    "uuid": "67bf91ab-75c6-47e7-80cb-d888d149095e",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\sfx_merge(1).mp3": {
+    "time": 1725548590794.918,
+    "uuid": "1fcec21d-6aae-489b-8a4f-f3d426736e99",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\sfx_merge(2).mp3": {
+    "time": 1725548590794.918,
+    "uuid": "d47ff0af-5eaf-49a7-8c78-7fe50b721d5a",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\sfx_newchar.mp3": {
+    "time": 1725548590794.918,
+    "uuid": "a0e1eded-1a9e-4d76-8c28-c10382285915",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\sfx_rocket1(1).mp3": {
+    "time": 1725548590794.918,
+    "uuid": "f8456312-35bb-484f-8da2-077789302e72",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\sfx_rocket1(2).mp3": {
+    "time": 1725548590794.918,
+    "uuid": "e5c04ac0-e33b-44c7-9656-668f0195ccf8",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\sfx_rocket1(3).mp3": {
+    "time": 1725548590794.918,
+    "uuid": "fc14361f-9114-4b3c-a607-13e1524a11a0",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\sfx_rocket2.mp3": {
+    "time": 1725548590794.918,
+    "uuid": "4d81cd4f-5fec-49c6-978a-fbd6f7e3153b",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\sfx_win.mp3": {
+    "time": 1725548590794.918,
+    "uuid": "f0f69a53-6907-40c6-9d4a-7e5f9c3a3adf",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\using": {
+    "time": 1725548590810.5374,
+    "uuid": "d04ce224-f76e-4d0c-858c-922eac94992a",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Font\\LilitaOne-Regular.ttf": {
+    "time": 1725548590681.7205,
+    "uuid": "8611814f-b85a-4950-822d-b043d7815423",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Font\\OFL.txt": {
+    "time": 1725548590681.7205,
+    "uuid": "9db8fcca-9d42-4b5e-be17-f0e6d7f1ab26",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Line\\line_white.png": {
+    "time": 1725548590681.7205,
+    "uuid": "93f7c061-bd10-46e3-9893-77443ef19913",
+    "missing": false
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Line\\Material": {
+    "time": 1725548590681.7205,
+    "uuid": "f97dff22-d4ce-40a9-8fb4-7e74062dcd9b",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Map\\Materials": {
+    "time": 1725548590681.7205,
+    "uuid": "a94a2f00-ec10-4003-a8a5-295976d9bcf5",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Map\\Mesh": {
+    "time": 1725548590681.7205,
+    "uuid": "ffcdfa64-8090-4ba4-8e18-cf8620008abb",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Robo\\Anim": {
+    "time": 1725548590697.3464,
+    "uuid": "34c82701-ef4c-430b-bf38-c00e15293b9a",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Robo\\Material": {
+    "time": 1725548590697.3464,
+    "uuid": "33f8f4f7-e0d3-4d67-8f2e-a1278df33c0c",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Robo\\Mesh": {
+    "time": 1725548590722.5146,
+    "uuid": "da0b42e6-97e2-45bb-aaa4-a47f313d4012",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Robo\\Texture": {
+    "time": 1725548590722.5146,
+    "uuid": "a4a52f63-5593-487a-9c44-4cccde07aa31",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\SpriteFrame\\2.png": {
+    "time": 1725548590722.5146,
+    "uuid": "5b977a67-f792-469c-999c-74dc03052f4d",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\SpriteFrame\\ButtonFight.png": {
+    "time": 1725548590722.5146,
+    "uuid": "fcac9dd4-ee24-4a93-8a65-b659ee547134",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\SpriteFrame\\hand.png": {
+    "time": 1725548590722.5146,
+    "uuid": "d70ae849-1947-40a0-81a8-5517c3b31011",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\SpriteFrame\\icon_legacy.png": {
+    "time": 1725548590722.5146,
+    "uuid": "ffb6b85f-c542-4834-9060-52aeaf57889b",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\SpriteFrame\\line.png": {
+    "time": 1725548590722.5146,
+    "uuid": "fa424bf0-846e-4d80-9a71-90463b6c645d",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\SpriteFrame\\logo.png": {
+    "time": 1725548590722.5146,
+    "uuid": "07e8c97a-2b1d-40fc-bb4e-d76c708365c1",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Bullet": {
+    "time": 1725548590735.3357,
+    "uuid": "3d867d3c-e3d1-4319-9432-32f94652924b",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Confetti": {
+    "time": 1725548590739.3755,
+    "uuid": "37175474-d344-4fa3-9e34-29978f3f288b",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Explosion": {
+    "time": 1725548590746.3538,
+    "uuid": "24d2b5bb-71f9-4e9a-9f98-fe75ef2c52bb",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx": {
+    "time": 1725548590763.6555,
+    "uuid": "7470c428-63d0-4692-bba1-ddc47111120f",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Smoke": {
+    "time": 1725548590763.6555,
+    "uuid": "bbd25f70-3886-4581-8957-debd3dad9723",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Spark": {
+    "time": 1725548590763.6555,
+    "uuid": "b4b78e2f-7906-417d-a028-ce9e642aa93f",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Texture": {
+    "time": 1725548590763.6555,
+    "uuid": "5d115d5e-f167-462b-84a1-bc3de258c702",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\AdHelper\\IronSource.ts": {
+    "time": 1725549442545.9846,
+    "uuid": "b6c66277-217f-4536-809a-48462fc2596e",
+    "missing": false
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\Const\\CONST.ts": {
+    "time": 1725548590779.2925,
+    "uuid": "703629a5-5db0-4bf7-9720-84e49e17521d",
+    "missing": false
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\Const\\GameInfo.ts": {
+    "time": 1725557082849.557,
+    "uuid": "8208e254-7f17-4f4e-8770-ae92221db73e",
+    "missing": false
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\Controller\\GameController.ts": {
+    "time": 1725548590779.2925,
+    "uuid": "9aa2e1c5-d023-4c31-a92d-0c1bf2005386",
+    "missing": false
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\Controller\\RoboController.ts": {
+    "time": 1725556133354.4248,
+    "uuid": "7b73ae4f-6a8a-4c64-8160-45684891694d",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\Controller\\SoundController.ts": {
+    "time": 1725548590779.2925,
+    "uuid": "6b331de7-4b55-4a08-b095-681f437f548a",
+    "missing": false
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\Controller\\UIGameController.ts": {
+    "time": 1725557038555.9695,
+    "uuid": "eae0a180-6b6c-41fb-bf24-e054165f939c",
+    "missing": false
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\GamePlay\\GamePlay.ts": {
+    "time": 1725549140679.9988,
+    "uuid": "0b046e23-7738-4bb4-8619-f03ea3888146",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\GamePlay\\HideMask.ts": {
+    "time": 1725548590779.2925,
+    "uuid": "f6c02d92-2a89-49d0-b14e-d4bba72e5a8f",
+    "missing": false
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\Others\\HandleLogicGamePlay.ts": {
+    "time": 1725556204556.948,
+    "uuid": "45fe3322-0661-48ba-b1ba-b8f4ddcac881",
+    "missing": false
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\Others\\vFx_FireLight.ts": {
+    "time": 1725548590779.2925,
+    "uuid": "6b4b36a0-ce3d-4ccf-90c2-4118dc72d332",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\Robo\\RoboAnim.ts": {
+    "time": 1725548590779.2925,
+    "uuid": "85c31c83-e649-44ca-b0b8-0f667704c2ba",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\Robo\\RoboBehavior.ts": {
+    "time": 1725548590779.2925,
+    "uuid": "41676923-f548-403c-a1fe-bc217c9b3e55",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\Robo\\RoboCollision.ts": {
+    "time": 1725558128390.3977,
+    "uuid": "9f6dcb41-b5fe-4a3b-9e9c-20443da81acb",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\Robo\\RoboLevel.ts": {
+    "time": 1725548590779.2925,
+    "uuid": "b3c0049f-efa4-439d-8385-e148a135cc53",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\Utils\\EnablePhysics.ts": {
+    "time": 1725548590779.2925,
+    "uuid": "bcf6df5e-8eb1-488a-b217-771bcdc22457",
+    "missing": false
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\Utils\\Responsive.ts": {
+    "time": 1725548590779.2925,
+    "uuid": "ff71ea16-94c0-487e-bf0d-6f6375515da5",
+    "missing": false
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\Utils\\Singleton.ts": {
+    "time": 1725548590779.2925,
+    "uuid": "68e71e46-300a-45c6-a436-7aa7acd49d56",
+    "missing": false
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\Utils\\Utility.ts": {
+    "time": 1725548590779.2925,
+    "uuid": "29ed240b-aa91-4932-a5a4-5ca3411d6bd9",
+    "missing": false
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\using\\BgSound.mp3": {
+    "time": 1725548590794.918,
+    "uuid": "e8102d28-dedf-4d03-bfb9-a60e50957247",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\using\\bg_Main.mp3": {
+    "time": 1725548590810.5374,
+    "uuid": "1f49aade-d57e-4751-8222-250f367900f0",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\using\\Boom Long.mp3": {
+    "time": 1725548590794.918,
+    "uuid": "84d78f3d-fb31-4d86-8418-33c9aec1f3dd",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\using\\DinoAttack2.mp3": {
+    "time": 1725548590794.918,
+    "uuid": "ebbf02a6-0138-4f55-90c1-72f70e2ae82f",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\using\\DinoAttack4.mp3": {
+    "time": 1725548590794.918,
+    "uuid": "1273bf59-1808-4452-838a-77f1c5fc57c5",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\using\\DinoAttack6.mp3": {
+    "time": 1725548590794.918,
+    "uuid": "c422b31d-5298-489f-a354-47edf55ee832",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\using\\Lose.mp3": {
+    "time": 1725548590794.918,
+    "uuid": "d8e37256-dd8d-4a6d-82f5-43d126a4ea88",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\using\\Merge.mp3": {
+    "time": 1725548590794.918,
+    "uuid": "4986e532-8e62-4a15-8b69-9d46ffb490de",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\using\\PurchaseDino.mp3": {
+    "time": 1725548590810.5374,
+    "uuid": "3f72debf-c453-4091-8775-98d81a78f6c2",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Line\\Material\\Color_Red.mtl": {
+    "time": 1725548590681.7205,
+    "uuid": "655e09dd-1731-46ad-83e0-e9734dfc06ad",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Line\\Material\\Line.mtl": {
+    "time": 1725548590681.7205,
+    "uuid": "3501690f-ac86-44ef-b3b1-43a1f01d68e1",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Map\\Materials\\Cocos": {
+    "time": 1725548590681.7205,
+    "uuid": "58fbeff2-c885-47d0-9a64-756a2f935a8d",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Map\\Materials\\ColorGround_Blue.mtl": {
+    "time": 1725548590681.7205,
+    "uuid": "cf01a911-10f0-43b6-bfa3-cb7a4656cb93",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Map\\Materials\\ColorGround_Purple.mtl": {
+    "time": 1725548590681.7205,
+    "uuid": "0d3c9af7-a581-4ca7-abef-dff8a208f31a",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Map\\Mesh\\Map02": {
+    "time": 1725548590681.7205,
+    "uuid": "1857ec54-b99f-430a-ae7a-21515897d199",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Map\\Mesh\\Map1.fbx": {
+    "time": 1725548590681.7205,
+    "uuid": "710bbe24-b698-4aaf-b610-02f96c3a771d",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Map\\Mesh\\Map2.fbx": {
+    "time": 1725548590681.7205,
+    "uuid": "a403b2b8-5c46-498f-a6c4-124119f10f89",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Map\\Mesh\\Map3.fbx": {
+    "time": 1725548590681.7205,
+    "uuid": "bc540bc4-28a8-47a7-b6eb-9514e8977efa",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Map\\Mesh\\Map5.fbx": {
+    "time": 1725548590681.7205,
+    "uuid": "bcebbfac-51bf-469f-b40e-51c72a131a59",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Map\\Mesh\\minecraft_map_merge.fbx": {
+    "time": 1725548590681.7205,
+    "uuid": "c1c58b01-6891-4709-a91a-2fea503fe16b",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Robo\\Anim\\Robo_Melee_atk1.fbx": {
+    "time": 1725548590697.3464,
+    "uuid": "9f7387d9-62cf-46ec-9c75-46e49c15bebe",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Robo\\Anim\\Robo_Melee_Dancing2.fbx": {
+    "time": 1725548590697.3464,
+    "uuid": "d707ccd3-5436-4604-8783-c9aef8c1f855",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Robo\\Anim\\Robo_Melee_die.fbx": {
+    "time": 1725548590697.3464,
+    "uuid": "de201013-e73c-46fc-a196-da88e00c7f5c",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Robo\\Anim\\Robo_Melee_idle1.fbx": {
+    "time": 1725548590697.3464,
+    "uuid": "ee461786-0e9e-42f9-8fca-a7e70128ca4c",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Robo\\Anim\\Robo_Melee_muscles.fbx": {
+    "time": 1725548590697.3464,
+    "uuid": "e928658a-883d-4e98-9f72-3efd8401cc57",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Robo\\Anim\\Robo_Melee_pickup.fbx": {
+    "time": 1725548590697.3464,
+    "uuid": "ee5bd06b-3ca3-44c8-ab54-4fb0ed225e89",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Robo\\Anim\\Robo_Melee_walk.fbx": {
+    "time": 1725548590697.3464,
+    "uuid": "21c2b731-62b9-4927-a22c-705cddd85d0d",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Robo\\Material\\MegaTexture.mtl": {
+    "time": 1725548590697.3464,
+    "uuid": "c8fcc9d9-daf8-4e73-a6f0-e7762724a58d",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Robo\\Mesh\\Robot_melee01_base.fbx": {
+    "time": 1725548590697.3464,
+    "uuid": "776d38d6-64d9-44c5-90cd-3388d3cdf0d5",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Robo\\Mesh\\Robot_melee10_base.fbx": {
+    "time": 1725548590712.9634,
+    "uuid": "20e284a8-ad3a-40e5-8767-2465e25bacd7",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Robo\\Mesh\\Robot_melee13_base.fbx": {
+    "time": 1725548590722.5146,
+    "uuid": "186e7552-905a-4815-9827-d18c95804d0b",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Robo\\Mesh\\Robot_melee16_base.fbx": {
+    "time": 1725548590722.5146,
+    "uuid": "558d3785-6617-4cb8-82bd-5d2ae963cfe3",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Robo\\Texture\\megatexture.png": {
+    "time": 1725548590722.5146,
+    "uuid": "a80a8f91-4aec-40ba-884d-eb1cff918fd3",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Bullet\\projectile_launcher_grenade.FBX": {
+    "time": 1725548590722.5146,
+    "uuid": "14971fce-bda5-4905-ba4a-d05ddaa04d3a",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Bullet\\projectile_rocket.FBX": {
+    "time": 1725548590722.5146,
+    "uuid": "ca4085a8-5213-4837-8750-ddce3a0e62c0",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Bullet\\shell_pistol.FBX": {
+    "time": 1725548590722.5146,
+    "uuid": "0bd33302-675d-4e6a-82d7-5fe990ef3686",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Bullet\\shell_rifle.FBX": {
+    "time": 1725548590722.5146,
+    "uuid": "71977687-16eb-4d18-af1a-3a02377255c7",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Bullet\\shell_shotgun.FBX": {
+    "time": 1725548590735.3357,
+    "uuid": "845e94c2-2998-4f4f-b4de-1789ffe033f2",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Confetti\\Material": {
+    "time": 1725548590737.3777,
+    "uuid": "7a7d7ea8-257c-4a71-ab44-f1c4dea2da0e",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Confetti\\Prefab": {
+    "time": 1725548590739.3755,
+    "uuid": "db6dcd32-368e-443b-a513-d047599cf49e",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Confetti\\Texture": {
+    "time": 1725548590742.365,
+    "uuid": "d0c45fae-ef95-40cc-abc0-b2506649f700",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Explosion\\Material": {
+    "time": 1725548590745.3582,
+    "uuid": "5cd177b7-10d7-4405-963e-c937e096badc",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Explosion\\Prefab": {
+    "time": 1725548590746.3538,
+    "uuid": "8b9e0b94-8a24-450e-b614-991cfddb9224",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Explosion\\Texture": {
+    "time": 1725548590750.6902,
+    "uuid": "ae2b60f7-00a8-4f34-b4db-10510bed8e63",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Bullet": {
+    "time": 1725548590753.683,
+    "uuid": "eb028360-0309-4bcd-a929-7f73ae7d3f39",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Explosion": {
+    "time": 1725548590757.6714,
+    "uuid": "3f45c31f-7d86-48b6-b3e8-896f3c39b6db",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\FX": {
+    "time": 1725548590763.6555,
+    "uuid": "6389d4cb-ca80-453d-8ec7-334c4980ace0",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Material": {
+    "time": 1725548590763.6555,
+    "uuid": "b046bbb4-7d7f-425a-9994-002cc1c0d622",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Mesh": {
+    "time": 1725548590763.6555,
+    "uuid": "7d40c9c6-ff03-4c68-ae3c-b97348b247fb",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Prefab": {
+    "time": 1725548590763.6555,
+    "uuid": "6dcfe5a1-6179-441c-80e4-779a911b18f1",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Texture": {
+    "time": 1725548590763.6555,
+    "uuid": "8c86389e-68ad-4084-8ce4-fc6708d9e59c",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Smoke\\Material": {
+    "time": 1725548590763.6555,
+    "uuid": "d22df335-1832-46d5-89a7-5f353f7177f5",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Smoke\\Prefab": {
+    "time": 1725548590763.6555,
+    "uuid": "c127674d-6847-416d-8b71-7af95c3a5fb4",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Smoke\\Texture": {
+    "time": 1725548590763.6555,
+    "uuid": "46c86842-9594-4073-b125-b99081c6c956",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Spark\\Material": {
+    "time": 1725548590763.6555,
+    "uuid": "748af140-dcd9-417a-9076-9399974e9de8",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Spark\\Prefab": {
+    "time": 1725548590763.6555,
+    "uuid": "ea8a649a-f75b-4001-9527-c47858365dd3",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Spark\\Texture": {
+    "time": 1725548590763.6555,
+    "uuid": "8ffeb09d-01f6-4540-9c12-c36cf4eefa25",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Texture\\photo_2023-10-13_09-06-30.jpg": {
+    "time": 1725548590763.6555,
+    "uuid": "cac39948-12a1-47fe-9ce9-84b48641d06d",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Map\\Materials\\Cocos\\Catus.mtl": {
+    "time": 1725548590681.7205,
+    "uuid": "87c92179-b7eb-425d-aa0f-3742622a585e",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Map\\Materials\\Cocos\\Mountain02.mtl": {
+    "time": 1725548590681.7205,
+    "uuid": "9848d1d1-0cea-4b6d-a4eb-49a86edf14ae",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Map\\Materials\\Cocos\\platform.mtl": {
+    "time": 1725548590681.7205,
+    "uuid": "b0ad5660-fae7-44d6-936c-5e6781c1c7b6",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Map\\Materials\\Cocos\\platform_Sand.mtl": {
+    "time": 1725548590681.7205,
+    "uuid": "da13f1bb-81d2-4622-bf34-cc971a61da7e",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Map\\Materials\\Cocos\\Sand.mtl": {
+    "time": 1725548590681.7205,
+    "uuid": "c30a2e5b-d285-4592-859f-e05e70a6220c",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Map\\Materials\\Cocos\\SandGround.mtl": {
+    "time": 1725548590681.7205,
+    "uuid": "8d8995be-a34e-42db-9b60-0ea338b7e39a",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Map\\Mesh\\Map02\\bg_02.fbx": {
+    "time": 1725548590681.7205,
+    "uuid": "05b370ff-4e29-4852-ac74-48f53c28dfdd",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Map\\Mesh\\Map02\\platform_02.fbx": {
+    "time": 1725548590681.7205,
+    "uuid": "59874c1c-bf46-4dc1-86a1-137762837d50",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Confetti\\Material\\Confetti.mtl": {
+    "time": 1725548590735.3357,
+    "uuid": "20a07770-f1c8-468e-83bf-f63807d2be8f",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Confetti\\Material\\Flash.mtl": {
+    "time": 1725548590736.3843,
+    "uuid": "4102d63e-f709-4187-9893-fa5df39bc16d",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Confetti\\Material\\Ring.mtl": {
+    "time": 1725548590736.3843,
+    "uuid": "82625195-1b69-4053-8deb-dca5fafd252b",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Confetti\\Material\\Sparkle.mtl": {
+    "time": 1725548590736.3843,
+    "uuid": "5ba8437c-a05c-42b0-bcd9-36489a5c2d01",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Confetti\\Material\\Sparkle02.mtl": {
+    "time": 1725548590736.3843,
+    "uuid": "3fa919c2-85e0-4bb9-887c-fbd26c2b90a2",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Confetti\\Prefab\\Confetti.prefab": {
+    "time": 1725548590737.3777,
+    "uuid": "1a7b7b90-7263-4d28-8b48-0d27af3f5ebf",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Confetti\\Prefab\\Sparkle.prefab": {
+    "time": 1725548590738.375,
+    "uuid": "7cb47319-2b0f-464f-ae78-8e9cc58bbf23",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Confetti\\Prefab\\Walk Break.prefab": {
+    "time": 1725548590738.375,
+    "uuid": "36308989-3dcb-4ae6-9564-e1b4b57c4581",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Confetti\\Texture\\flashLarge.png": {
+    "time": 1725548590740.3713,
+    "uuid": "52bdfd2f-9765-4220-81bb-a23e56c948bd",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Confetti\\Texture\\fullCircleFaded.png": {
+    "time": 1725548590740.3713,
+    "uuid": "80f23f60-999a-4bd8-9dde-3da76232a8a4",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Confetti\\Texture\\glowSparksOffset.png": {
+    "time": 1725548590741.3687,
+    "uuid": "21e2771f-12ea-4efd-9a9e-bc3dcc74be2f",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Confetti\\Texture\\levelup_ring.png": {
+    "time": 1725548590741.3687,
+    "uuid": "c6ab8a88-986f-49f2-ab3b-8f75cc913663",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Confetti\\Texture\\sparkle_blue.png": {
+    "time": 1725548590742.365,
+    "uuid": "0f89d8a2-04ea-45dc-9b18-c3d12e58b696",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Confetti\\Texture\\white.png": {
+    "time": 1725548590742.365,
+    "uuid": "a6384a7d-7bca-4c73-bbac-7e68d7e04593",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Explosion\\Material\\Fireball.mtl": {
+    "time": 1725548590743.3618,
+    "uuid": "929427f5-080c-478d-8788-57048e9619b7",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Explosion\\Material\\Flash.mtl": {
+    "time": 1725548590743.3618,
+    "uuid": "11b6bb35-a087-4f5b-a2a0-c8f41a5d7509",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Explosion\\Material\\Glow01.mtl": {
+    "time": 1725548590744.3596,
+    "uuid": "f587bef8-bcdf-4a03-baaf-527179265eb1",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Explosion\\Material\\Glow02.mtl": {
+    "time": 1725548590744.3596,
+    "uuid": "78d256f2-2828-4af8-97d0-da466ffce319",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Explosion\\Material\\Nova.mtl": {
+    "time": 1725548590744.3596,
+    "uuid": "efa28a05-bac6-4f7a-b488-4d1d07e2e096",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Explosion\\Material\\Smoke02.mtl": {
+    "time": 1725548590744.3596,
+    "uuid": "1491ecb1-b549-44e6-a447-45fd67b6cc01",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Explosion\\Prefab\\Explosion.prefab": {
+    "time": 1725548590745.3582,
+    "uuid": "1eb9135b-5a1a-4d7e-95bd-eb9c5c0e2dd0",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Explosion\\Prefab\\FireBall.prefab": {
+    "time": 1725548590746.3538,
+    "uuid": "1a0e7c67-6ce6-4abb-b199-26512b81836d",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Explosion\\Texture\\explosion_spritesheet_3x3.png": {
+    "time": 1725548590749.6946,
+    "uuid": "4d724fd5-ccc2-4425-aad4-c132699ff292",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Explosion\\Texture\\Flash35.png": {
+    "time": 1725548590747.3516,
+    "uuid": "9aaf0096-b410-426b-a65a-9b7a31096bda",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Explosion\\Texture\\glow1.png": {
+    "time": 1725548590749.6946,
+    "uuid": "b99509df-967e-4296-9fbf-cacb91b64089",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Explosion\\Texture\\MaskForShader.png": {
+    "time": 1725548590747.3516,
+    "uuid": "ba20d27c-8b8a-4196-9420-3987f04cae05",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Explosion\\Texture\\novalines.png": {
+    "time": 1725548590750.6902,
+    "uuid": "7d233886-ad7f-43d2-b486-2fa639175f1f",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Explosion\\Texture\\SS2.png": {
+    "time": 1725548590748.6946,
+    "uuid": "24a45faf-5b18-4187-9937-9f985310e553",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Bullet\\projectile_launcher_grenade.FBX": {
+    "time": 1725548590751.6887,
+    "uuid": "f5e0d55f-65fe-4541-84cf-02632057d339",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Bullet\\projectile_rocket.FBX": {
+    "time": 1725548590751.6887,
+    "uuid": "89ef2048-3435-4653-928a-92593bbaeab2",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Bullet\\shell_pistol.FBX": {
+    "time": 1725548590752.6848,
+    "uuid": "8b7867ec-2581-4b40-9561-3374c9970e0b",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Bullet\\shell_rifle.FBX": {
+    "time": 1725548590752.6848,
+    "uuid": "a1b550eb-3ae5-4084-af48-1a937a48f9d5",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Bullet\\shell_shotgun.FBX": {
+    "time": 1725548590753.683,
+    "uuid": "ac463b03-4a6e-4db5-86fe-4915b94e66cf",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Explosion\\Material": {
+    "time": 1725548590755.6777,
+    "uuid": "6599d4ea-03fc-449e-85ab-759055453ccd",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Explosion\\Prefab": {
+    "time": 1725548590756.6743,
+    "uuid": "b8587042-392b-4ece-af07-71f1fd54716e",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Explosion\\Texture": {
+    "time": 1725548590761.7244,
+    "uuid": "18aca4fd-3f82-498a-961f-5834027e131f",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\FX\\Material": {
+    "time": 1725548590762.6592,
+    "uuid": "38a102fd-f9d1-47ac-9f0e-36c791771f0c",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\FX\\Mesh": {
+    "time": 1725548590763.6555,
+    "uuid": "ed328aff-1881-4178-b15e-857f90ff4b81",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\FX\\Prefab": {
+    "time": 1725548590763.6555,
+    "uuid": "bc783156-5f5b-425a-b389-49cb7875c6b1",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\FX\\Texture": {
+    "time": 1725548590763.6555,
+    "uuid": "84f17245-e675-44b4-bb9e-984d5a45a058",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Material\\Cube.mtl": {
+    "time": 1725548590763.6555,
+    "uuid": "4051f541-9110-436c-96d0-2acd83aff781",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Material\\Gradient.mtl": {
+    "time": 1725548590763.6555,
+    "uuid": "177fe981-f5cb-4138-a1c7-7e2d804a9814",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Mesh\\Glow.fbx": {
+    "time": 1725548590763.6555,
+    "uuid": "49afaf3a-733b-4b81-87df-cb7cdf144acf",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Prefab\\Merge FX.prefab": {
+    "time": 1725548590763.6555,
+    "uuid": "88d358bd-b195-42ed-882f-b609097fe3fa",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Texture\\gradient.png": {
+    "time": 1725548590763.6555,
+    "uuid": "fb5d8f2c-e92b-47ca-9b2b-946d23e7c5b4",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Texture\\photo_2023-10-13_09-06-30.jpg": {
+    "time": 1725548590763.6555,
+    "uuid": "60c5f310-9307-4018-853c-0b57ab6dcd2f",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Texture\\symbols.png": {
+    "time": 1725548590763.6555,
+    "uuid": "3fa1ac96-2bca-405e-87f1-166de281d07b",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Smoke\\Material\\smoke.mtl": {
+    "time": 1725548590763.6555,
+    "uuid": "87eb60aa-050f-4cf3-9755-703517b232ee",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Smoke\\Material\\testSmoke.mtl": {
+    "time": 1725548590763.6555,
+    "uuid": "3171a6ea-c919-4098-a844-67c5875f4c0f",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Smoke\\Prefab\\Smoke.prefab": {
+    "time": 1725548590763.6555,
+    "uuid": "09fdbd5a-3afd-48c8-bde8-56c2980d03ae",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Smoke\\Texture\\SS2.png": {
+    "time": 1725548590763.6555,
+    "uuid": "8fd668fd-5e3f-4eaa-a66c-8d612489a480",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Spark\\Material\\Ring.mtl": {
+    "time": 1725548590763.6555,
+    "uuid": "2adb8f43-d6d7-46b3-b4a8-867bbaf8669b",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Spark\\Material\\Sparkle.mtl": {
+    "time": 1725548590763.6555,
+    "uuid": "b3d61548-515b-4d64-9e8a-e756e9e7f00c",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Spark\\Prefab\\Sparkle.prefab": {
+    "time": 1725548590763.6555,
+    "uuid": "019b4139-c518-47e3-a9e0-05d468f52121",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Spark\\Texture\\levelup_ring.png": {
+    "time": 1725548590763.6555,
+    "uuid": "47320e7c-d536-460e-b16c-9a09d80c92c4",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Spark\\Texture\\sparkle_blue.png": {
+    "time": 1725548590763.6555,
+    "uuid": "68d38f34-d789-4cb6-874f-98074bfcd51d",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Explosion\\Material\\Fireball.mtl": {
+    "time": 1725548590754.6802,
+    "uuid": "6091257f-7230-4a0f-8ce4-69b96c75a328",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Explosion\\Material\\Flash.mtl": {
+    "time": 1725548590754.6802,
+    "uuid": "3e1cf493-5398-453d-ad25-26763ed555c1",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Explosion\\Material\\Glow01.mtl": {
+    "time": 1725548590754.6802,
+    "uuid": "9f783504-aed8-4dd6-9ef0-c0f814c13fb1",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Explosion\\Material\\Glow02.mtl": {
+    "time": 1725548590754.6802,
+    "uuid": "bc71b99e-053d-4b29-8fa6-0316539c8d6b",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Explosion\\Material\\Nova.mtl": {
+    "time": 1725548590755.6777,
+    "uuid": "bb35a664-31e2-4f01-acbb-af3084412856",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Explosion\\Material\\Smoke02.mtl": {
+    "time": 1725548590755.6777,
+    "uuid": "500298f6-d10c-4a89-bbc3-264f5cc4559a",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Explosion\\Prefab\\Explosion.prefab": {
+    "time": 1725548590756.6743,
+    "uuid": "85a5224c-aa49-48ed-8724-76a3bc336034",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Explosion\\Prefab\\FireBall.prefab": {
+    "time": 1725548590756.6743,
+    "uuid": "1e12472a-371a-47d6-830e-e80dd495f8cf",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Explosion\\Texture\\explosion_spritesheet_3x3.png": {
+    "time": 1725548590760.6633,
+    "uuid": "97884696-99e3-40a7-ba04-102b1b0a10e9",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Explosion\\Texture\\Flash35.png": {
+    "time": 1725548590757.6714,
+    "uuid": "a3144db7-e730-4526-bda6-62c68e8221f6",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Explosion\\Texture\\glow1.png": {
+    "time": 1725548590760.6633,
+    "uuid": "bd51c92d-960f-40e2-b44b-b3c532c7a155",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Explosion\\Texture\\MaskForShader.png": {
+    "time": 1725548590758.6716,
+    "uuid": "6c8abba9-79a0-447e-89d5-bbbe036c2889",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Explosion\\Texture\\novalines.png": {
+    "time": 1725548590761.7244,
+    "uuid": "9e4da854-5b68-4257-8934-bc5df114b8ca",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Explosion\\Texture\\SS2.png": {
+    "time": 1725548590759.6682,
+    "uuid": "640d3075-e692-4230-b938-0d721ec61723",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\FX\\Material\\Cube.mtl": {
+    "time": 1725548590762.6592,
+    "uuid": "10776e88-e4fa-4964-b0cb-cec9df07044a",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\FX\\Material\\Gradient.mtl": {
+    "time": 1725548590762.6592,
+    "uuid": "8c86dbdf-f9ed-4438-8c2b-4cd3aebbde97",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\FX\\Mesh\\Glow.fbx": {
+    "time": 1725548590763.6555,
+    "uuid": "43a45f5d-7bd4-4ce0-9a41-8c806ecbe091",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\FX\\Prefab\\Merge FX.prefab": {
+    "time": 1725548590763.6555,
+    "uuid": "6d75567f-87f1-4e06-b79c-5787741d78ca",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\FX\\Texture\\gradient.png": {
+    "time": 1725548590763.6555,
+    "uuid": "ceaf2213-d153-44c5-96dc-ad9ea48f9046",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\FX\\Texture\\symbols.png": {
+    "time": 1725548590763.6555,
+    "uuid": "f878fbc4-b1ab-48b2-849a-a918ae4e59c9",
+    "missing": true
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Animation.meta": {
+    "time": 1725548590666.0981
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art.meta": {
+    "time": 1725548590666.0981
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Particles.meta": {
+    "time": 1725548590763.6555
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Prefab.meta": {
+    "time": 1725548590779.2925
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scene.meta": {
+    "time": 1725548590779.2925
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts.meta": {
+    "time": 1725548590779.2925
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\SkyBox.meta": {
+    "time": 1725548590779.2925
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound.meta": {
+    "time": 1725548590779.2925
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Font.meta": {
+    "time": 1725548590681.7205
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Line.meta": {
+    "time": 1725548590681.7205
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Map.meta": {
+    "time": 1725548590681.7205
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Robo.meta": {
+    "time": 1725548590681.7205
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\SpriteFrame.meta": {
+    "time": 1725548590722.5146
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx.meta": {
+    "time": 1725548590722.5146
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Animation\\CTA_Anim.anim.meta": {
+    "time": 1725548590666.0981
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Animation\\Tutorial_Anim.anim.meta": {
+    "time": 1725548590666.0981
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Prefab\\Robo_First.prefab.meta": {
+    "time": 1725548590779.2925
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Prefab\\Robo_Third.prefab.meta": {
+    "time": 1725548590779.2925
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Prefab\\Robo_Second.prefab.meta": {
+    "time": 1725548590779.2925
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Prefab\\UI_Robo_Level.prefab.meta": {
+    "time": 1725548590779.2925
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Particles\\FireLight.plist.meta": {
+    "time": 1725549000755.1367
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\AdHelper.meta": {
+    "time": 1725548590779.2925
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\Const.meta": {
+    "time": 1725548590779.2925
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\Controller.meta": {
+    "time": 1725548590779.2925
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\GamePlay.meta": {
+    "time": 1725548590779.2925
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\Others.meta": {
+    "time": 1725548590779.2925
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\Robo.meta": {
+    "time": 1725548590779.2925
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\Utils.meta": {
+    "time": 1725548590779.2925
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Particles\\FireLight.png.meta": {
+    "time": 1725548590763.6555
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scene\\Op12.scene.meta": {
+    "time": 1725548590779.2925
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scene\\Op13.scene.meta": {
+    "time": 1725548590779.2925
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\bg_main(1).mp3.meta": {
+    "time": 1725548590794.918
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\Ig_BreakWall.mp3.meta": {
+    "time": 1725548590779.2925
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\sfx_click(1).mp3.meta": {
+    "time": 1725548590794.918
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\sfx_click(2).mp3.meta": {
+    "time": 1725548590794.918
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\bg_main(2).mp3.meta": {
+    "time": 1725548590794.918
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\sfx_merge(1).mp3.meta": {
+    "time": 1725548590794.918
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\sfx_lose.mp3.meta": {
+    "time": 1725548590794.918
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\sfx_newchar.mp3.meta": {
+    "time": 1725548590794.918
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\sfx_rocket1(2).mp3.meta": {
+    "time": 1725548590794.918
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\sfx_merge(2).mp3.meta": {
+    "time": 1725548590794.918
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\sfx_rocket1(1).mp3.meta": {
+    "time": 1725548590794.918
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\using.meta": {
+    "time": 1725548590794.918
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\sfx_rocket1(3).mp3.meta": {
+    "time": 1725548590794.918
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Font\\LilitaOne-Regular.ttf.meta": {
+    "time": 1725548590681.7205
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\sfx_win.mp3.meta": {
+    "time": 1725548590794.918
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Line\\Material.meta": {
+    "time": 1725548590681.7205
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Map\\Materials.meta": {
+    "time": 1725548590681.7205
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Map\\Mesh.meta": {
+    "time": 1725548590681.7205
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\sfx_rocket2.mp3.meta": {
+    "time": 1725548590794.918
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Robo\\Anim.meta": {
+    "time": 1725548590681.7205
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Robo\\Material.meta": {
+    "time": 1725548590697.3464
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Robo\\Mesh.meta": {
+    "time": 1725548590697.3464
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Robo\\Texture.meta": {
+    "time": 1725548590722.5146
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Font\\OFL.txt.meta": {
+    "time": 1725548590681.7205
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Line\\line_white.png.meta": {
+    "time": 1725548590681.7205
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\SkyBox\\default_skybox.png.meta": {
+    "time": 1725548590779.2925
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\SpriteFrame\\2.png.meta": {
+    "time": 1725548590722.5146
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\SpriteFrame\\ButtonFight.png.meta": {
+    "time": 1725548590722.5146
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Bullet.meta": {
+    "time": 1725548590722.5146
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Confetti.meta": {
+    "time": 1725548590735.3357
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\SpriteFrame\\hand.png.meta": {
+    "time": 1725548590722.5146
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Explosion.meta": {
+    "time": 1725548590742.365
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx.meta": {
+    "time": 1725548590750.6902
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Smoke.meta": {
+    "time": 1725548590763.6555
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Spark.meta": {
+    "time": 1725548590763.6555
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Texture.meta": {
+    "time": 1725548590763.6555
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\AdHelper\\IronSource.ts.meta": {
+    "time": 1725548590779.2925
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\Const\\CONST.ts.meta": {
+    "time": 1725548590779.2925
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\Const\\GameInfo.ts.meta": {
+    "time": 1725548590779.2925
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\Controller\\GameController.ts.meta": {
+    "time": 1725548590779.2925
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\SpriteFrame\\icon_legacy.png.meta": {
+    "time": 1725548590722.5146
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\Controller\\RoboController.ts.meta": {
+    "time": 1725548590779.2925
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\Controller\\SoundController.ts.meta": {
+    "time": 1725548590779.2925
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\Controller\\UIGameController.ts.meta": {
+    "time": 1725548590779.2925
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\GamePlay\\GamePlay.ts.meta": {
+    "time": 1725548590779.2925
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\GamePlay\\HideMask.ts.meta": {
+    "time": 1725548590779.2925
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\Others\\HandleLogicGamePlay.ts.meta": {
+    "time": 1725548590779.2925
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\Others\\vFx_FireLight.ts.meta": {
+    "time": 1725548590779.2925
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\Robo\\RoboAnim.ts.meta": {
+    "time": 1725548590779.2925
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\Robo\\RoboBehavior.ts.meta": {
+    "time": 1725548590779.2925
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\Robo\\RoboCollision.ts.meta": {
+    "time": 1725548590779.2925
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\Robo\\RoboLevel.ts.meta": {
+    "time": 1725548590779.2925
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\Utils\\EnablePhysics.ts.meta": {
+    "time": 1725548590779.2925
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\Utils\\Responsive.ts.meta": {
+    "time": 1725548590779.2925
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\Utils\\Singleton.ts.meta": {
+    "time": 1725548590779.2925
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Scripts\\Utils\\Utility.ts.meta": {
+    "time": 1725548590779.2925
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\SpriteFrame\\line.png.meta": {
+    "time": 1725548590722.5146
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\SpriteFrame\\logo.png.meta": {
+    "time": 1725548590722.5146
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\using\\BgSound.mp3.meta": {
+    "time": 1725548590794.918
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\using\\DinoAttack2.mp3.meta": {
+    "time": 1725548590794.918
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\using\\Boom Long.mp3.meta": {
+    "time": 1725548590794.918
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\using\\DinoAttack4.mp3.meta": {
+    "time": 1725548590794.918
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\using\\bg_Main.mp3.meta": {
+    "time": 1725548590810.5374
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Line\\Material\\Color_Red.mtl.meta": {
+    "time": 1725548590681.7205
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Line\\Material\\Line.mtl.meta": {
+    "time": 1725548590681.7205
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Map\\Materials\\Cocos.meta": {
+    "time": 1725548590681.7205
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\using\\Lose.mp3.meta": {
+    "time": 1725548590794.918
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\using\\Merge.mp3.meta": {
+    "time": 1725548590810.5374
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Map\\Mesh\\Map02.meta": {
+    "time": 1725548590681.7205
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\using\\DinoAttack6.mp3.meta": {
+    "time": 1725548590794.918
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Map\\Materials\\ColorGround_Purple.mtl.meta": {
+    "time": 1725548590681.7205
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Map\\Materials\\ColorGround_Blue.mtl.meta": {
+    "time": 1725548590681.7205
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Sound\\using\\PurchaseDino.mp3.meta": {
+    "time": 1725548590810.5374
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Map\\Mesh\\minecraft_map_merge.fbx.meta": {
+    "time": 1725548590681.7205
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Map\\Mesh\\Map1.fbx.meta": {
+    "time": 1725548590681.7205
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Map\\Mesh\\Map3.fbx.meta": {
+    "time": 1725548590681.7205
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Map\\Mesh\\Map2.fbx.meta": {
+    "time": 1725548590681.7205
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Map\\Mesh\\Map5.fbx.meta": {
+    "time": 1725548590681.7205
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Robo\\Anim\\Robo_Melee_atk1.fbx.meta": {
+    "time": 1725548590697.3464
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Robo\\Anim\\Robo_Melee_idle1.fbx.meta": {
+    "time": 1725548590697.3464
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Robo\\Anim\\Robo_Melee_Dancing2.fbx.meta": {
+    "time": 1725548590697.3464
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Robo\\Material\\MegaTexture.mtl.meta": {
+    "time": 1725548590697.3464
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Robo\\Anim\\Robo_Melee_die.fbx.meta": {
+    "time": 1725548590697.3464
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Robo\\Anim\\Robo_Melee_muscles.fbx.meta": {
+    "time": 1725548590697.3464
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Robo\\Anim\\Robo_Melee_pickup.fbx.meta": {
+    "time": 1725548590697.3464
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Robo\\Anim\\Robo_Melee_walk.fbx.meta": {
+    "time": 1725548590697.3464
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Robo\\Texture\\megatexture.png.meta": {
+    "time": 1725548590722.5146
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Bullet\\projectile_launcher_grenade.FBX.meta": {
+    "time": 1725548590722.5146
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Robo\\Mesh\\Robot_melee13_base.fbx.meta": {
+    "time": 1725548590722.5146
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Robo\\Mesh\\Robot_melee01_base.fbx.meta": {
+    "time": 1725548590697.3464
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Robo\\Mesh\\Robot_melee10_base.fbx.meta": {
+    "time": 1725548590712.9634
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Robo\\Mesh\\Robot_melee16_base.fbx.meta": {
+    "time": 1725548590722.5146
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Confetti\\Material.meta": {
+    "time": 1725548590735.3357
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Confetti\\Prefab.meta": {
+    "time": 1725548590737.3777
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Confetti\\Texture.meta": {
+    "time": 1725548590739.3755
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Explosion\\Material.meta": {
+    "time": 1725548590743.3618
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Explosion\\Prefab.meta": {
+    "time": 1725548590745.3582
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Explosion\\Texture.meta": {
+    "time": 1725548590746.3538
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Bullet.meta": {
+    "time": 1725548590750.6902
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Explosion.meta": {
+    "time": 1725548590753.683
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\FX.meta": {
+    "time": 1725548590761.7244
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Material.meta": {
+    "time": 1725548590763.6555
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Mesh.meta": {
+    "time": 1725548590763.6555
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Prefab.meta": {
+    "time": 1725548590763.6555
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Texture.meta": {
+    "time": 1725548590763.6555
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Smoke\\Material.meta": {
+    "time": 1725548590763.6555
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Smoke\\Prefab.meta": {
+    "time": 1725548590763.6555
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Smoke\\Texture.meta": {
+    "time": 1725548590763.6555
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Spark\\Material.meta": {
+    "time": 1725548590763.6555
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Spark\\Prefab.meta": {
+    "time": 1725548590763.6555
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Bullet\\projectile_rocket.FBX.meta": {
+    "time": 1725548590722.5146
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Spark\\Texture.meta": {
+    "time": 1725548590763.6555
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Map\\Materials\\Cocos\\Catus.mtl.meta": {
+    "time": 1725548590681.7205
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Map\\Materials\\Cocos\\Mountain02.mtl.meta": {
+    "time": 1725548590681.7205
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Map\\Materials\\Cocos\\platform_Sand.mtl.meta": {
+    "time": 1725548590681.7205
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Map\\Materials\\Cocos\\platform.mtl.meta": {
+    "time": 1725548590681.7205
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Map\\Materials\\Cocos\\Sand.mtl.meta": {
+    "time": 1725548590681.7205
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Map\\Materials\\Cocos\\SandGround.mtl.meta": {
+    "time": 1725548590681.7205
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Texture\\photo_2023-10-13_09-06-30.jpg.meta": {
+    "time": 1725548590763.6555
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Bullet\\shell_pistol.FBX.meta": {
+    "time": 1725548590722.5146
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Confetti\\Material\\Flash.mtl.meta": {
+    "time": 1725548590736.3843
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Confetti\\Material\\Confetti.mtl.meta": {
+    "time": 1725548590735.3357
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Confetti\\Material\\Sparkle.mtl.meta": {
+    "time": 1725548590736.3843
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Confetti\\Material\\Ring.mtl.meta": {
+    "time": 1725548590736.3843
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Bullet\\shell_rifle.FBX.meta": {
+    "time": 1725548590722.5146
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Confetti\\Material\\Sparkle02.mtl.meta": {
+    "time": 1725548590737.3777
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Bullet\\shell_shotgun.FBX.meta": {
+    "time": 1725548590735.3357
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Confetti\\Prefab\\Confetti.prefab.meta": {
+    "time": 1725548590737.3777
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Confetti\\Prefab\\Sparkle.prefab.meta": {
+    "time": 1725548590738.375
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Confetti\\Prefab\\Walk Break.prefab.meta": {
+    "time": 1725548590739.3755
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Confetti\\Texture\\flashLarge.png.meta": {
+    "time": 1725548590740.3713
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Confetti\\Texture\\fullCircleFaded.png.meta": {
+    "time": 1725548590740.3713
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Confetti\\Texture\\glowSparksOffset.png.meta": {
+    "time": 1725548590741.3687
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Confetti\\Texture\\levelup_ring.png.meta": {
+    "time": 1725548590741.3687
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Confetti\\Texture\\sparkle_blue.png.meta": {
+    "time": 1725548590742.365
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Explosion\\Material\\Flash.mtl.meta": {
+    "time": 1725548590743.3618
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Explosion\\Material\\Fireball.mtl.meta": {
+    "time": 1725548590743.3618
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Explosion\\Material\\Glow02.mtl.meta": {
+    "time": 1725548590744.3596
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Explosion\\Material\\Glow01.mtl.meta": {
+    "time": 1725548590744.3596
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Explosion\\Material\\Smoke02.mtl.meta": {
+    "time": 1725548590745.3582
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Explosion\\Material\\Nova.mtl.meta": {
+    "time": 1725548590744.3596
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Confetti\\Texture\\white.png.meta": {
+    "time": 1725548590742.365
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Explosion\\Prefab\\FireBall.prefab.meta": {
+    "time": 1725548590746.3538
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Explosion\\Prefab\\Explosion.prefab.meta": {
+    "time": 1725548590745.3582
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Explosion\\Texture\\explosion_spritesheet_3x3.png.meta": {
+    "time": 1725548590749.6946
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Map\\Mesh\\Map02\\platform_02.fbx.meta": {
+    "time": 1725548590681.7205
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Explosion\\Texture\\glow1.png.meta": {
+    "time": 1725548590750.6902
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Explosion\\Texture\\Flash35.png.meta": {
+    "time": 1725548590747.3516
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Explosion\\Texture\\MaskForShader.png.meta": {
+    "time": 1725548590748.3994
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Explosion\\Texture\\novalines.png.meta": {
+    "time": 1725548590750.6902
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Explosion\\Texture\\SS2.png.meta": {
+    "time": 1725548590749.6946
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\Map\\Mesh\\Map02\\bg_02.fbx.meta": {
+    "time": 1725548590681.7205
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Bullet\\projectile_launcher_grenade.FBX.meta": {
+    "time": 1725548590751.6887
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Explosion\\Material.meta": {
+    "time": 1725548590753.683
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Explosion\\Prefab.meta": {
+    "time": 1725548590755.6777
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Explosion\\Texture.meta": {
+    "time": 1725548590757.6714
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\FX\\Material.meta": {
+    "time": 1725548590761.7244
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\FX\\Mesh.meta": {
+    "time": 1725548590762.6592
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\FX\\Prefab.meta": {
+    "time": 1725548590763.6555
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\FX\\Texture.meta": {
+    "time": 1725548590763.6555
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Material\\Cube.mtl.meta": {
+    "time": 1725548590763.6555
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Material\\Gradient.mtl.meta": {
+    "time": 1725548590763.6555
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Bullet\\projectile_rocket.FBX.meta": {
+    "time": 1725548590752.6848
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Bullet\\shell_pistol.FBX.meta": {
+    "time": 1725548590752.6848
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Prefab\\Merge FX.prefab.meta": {
+    "time": 1725548590763.6555
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Bullet\\shell_rifle.FBX.meta": {
+    "time": 1725548590752.6848
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Texture\\gradient.png.meta": {
+    "time": 1725548590763.6555
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Texture\\photo_2023-10-13_09-06-30.jpg.meta": {
+    "time": 1725548590763.6555
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Smoke\\Material\\smoke.mtl.meta": {
+    "time": 1725548590763.6555
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Smoke\\Material\\testSmoke.mtl.meta": {
+    "time": 1725548590763.6555
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Texture\\symbols.png.meta": {
+    "time": 1725548590763.6555
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Spark\\Material\\Ring.mtl.meta": {
+    "time": 1725548590763.6555
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Spark\\Material\\Sparkle.mtl.meta": {
+    "time": 1725548590763.6555
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Smoke\\Prefab\\Smoke.prefab.meta": {
+    "time": 1725548590763.6555
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Spark\\Prefab\\Sparkle.prefab.meta": {
+    "time": 1725548590763.6555
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Smoke\\Texture\\SS2.png.meta": {
+    "time": 1725548590763.6555
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Explosion\\Material\\Fireball.mtl.meta": {
+    "time": 1725548590754.6802
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Bullet\\shell_shotgun.FBX.meta": {
+    "time": 1725548590753.683
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Explosion\\Material\\Flash.mtl.meta": {
+    "time": 1725548590754.6802
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Explosion\\Material\\Glow01.mtl.meta": {
+    "time": 1725548590754.6802
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Explosion\\Material\\Glow02.mtl.meta": {
+    "time": 1725548590755.6777
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Explosion\\Material\\Nova.mtl.meta": {
+    "time": 1725548590755.6777
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Explosion\\Material\\Smoke02.mtl.meta": {
+    "time": 1725548590755.6777
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Spark\\Texture\\levelup_ring.png.meta": {
+    "time": 1725548590763.6555
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Spark\\Texture\\sparkle_blue.png.meta": {
+    "time": 1725548590763.6555
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Explosion\\Prefab\\Explosion.prefab.meta": {
+    "time": 1725548590756.6743
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Explosion\\Prefab\\FireBall.prefab.meta": {
+    "time": 1725548590756.6743
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Explosion\\Texture\\explosion_spritesheet_3x3.png.meta": {
+    "time": 1725548590760.6633
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Explosion\\Texture\\Flash35.png.meta": {
+    "time": 1725548590757.6714
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Mesh\\Glow.fbx.meta": {
+    "time": 1725548590763.6555
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\FX\\Material\\Gradient.mtl.meta": {
+    "time": 1725548590762.6592
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\FX\\Material\\Cube.mtl.meta": {
+    "time": 1725548590762.6592
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Explosion\\Texture\\glow1.png.meta": {
+    "time": 1725548590760.6633
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Explosion\\Texture\\MaskForShader.png.meta": {
+    "time": 1725548590758.6716
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Explosion\\Texture\\novalines.png.meta": {
+    "time": 1725548590761.7244
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\Explosion\\Texture\\SS2.png.meta": {
+    "time": 1725548590759.6682
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\FX\\Prefab\\Merge FX.prefab.meta": {
+    "time": 1725548590763.6555
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\FX\\Texture\\gradient.png.meta": {
+    "time": 1725548590763.6555
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\FX\\Texture\\symbols.png.meta": {
+    "time": 1725548590763.6555
+  },
+  "D:\\PlayableAds\\PA_2024\\3D\\MergeRobo\\MergeRobo_FullProject\\assets\\Art\\vFx\\Fx\\FX\\Mesh\\Glow.fbx.meta": {
+    "time": 1725548590763.6555
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Animation": {
+    "time": 1732354721653.4368,
+    "uuid": "971a6aaa-aa7a-41a1-a80b-e74252a3544c",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art": {
+    "time": 1732356740732.966,
+    "uuid": "dd7db289-9cce-422a-8aee-edff75cab724",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Prefab": {
+    "time": 1732353086383.1848,
+    "uuid": "ee3ea39c-d0f5-46cf-9510-8030ac4d74c1",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scene": {
+    "time": 1732353086430.0212,
+    "uuid": "4c8459e6-8398-457f-8d2d-f9718337be10",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts": {
+    "time": 1732353087211.0874,
+    "uuid": "b0e16b25-b26c-4e4d-97da-71f938cd2544",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\SkyBox": {
+    "time": 1732353087398.5444,
+    "uuid": "f098230d-bae6-4f4e-b8ca-11fe3e7033c5",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Animation\\Tutorial_Anim.anim": {
+    "time": 1732353082428.447,
+    "uuid": "8571f78c-93b2-4e2a-a572-f09ee14bdb36",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scene\\Op12.scene": {
+    "time": 1732359963688.7705,
+    "uuid": "ba770f42-b1bd-480a-812a-b2d060f264d8",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\AdHelper": {
+    "time": 1732353086648.7483,
+    "uuid": "8451287e-62a1-41a9-884f-385e91dd6f9a",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\Const": {
+    "time": 1732353086773.7183,
+    "uuid": "d9110fee-f3d6-4f7c-89ab-dba711f2dc23",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\Controller": {
+    "time": 1732353086898.661,
+    "uuid": "cd690fdf-2f9d-4a2c-b010-2de7144c86be",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\GamePlay": {
+    "time": 1732356632932.5063,
+    "uuid": "b9e24c7b-4dfb-405b-8e66-3cd7c458f4aa",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\Others": {
+    "time": 1732356165753.4668,
+    "uuid": "1a494f87-d208-4166-b4f3-9efde4684997",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\Utils": {
+    "time": 1732353087351.6807,
+    "uuid": "7cd0790a-c302-48bb-b183-279a1ae53564",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\SkyBox\\default_skybox.png": {
+    "time": 1732353087398.5444,
+    "uuid": "09b14ffe-3ef0-4ccd-b5d5-0a9e54f89edb",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\AdHelper\\IronSource.ts": {
+    "time": 1732353086648.7483,
+    "uuid": "b6c66277-217f-4536-809a-48462fc2596e",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\Const\\CONST.ts": {
+    "time": 1732353086679.9902,
+    "uuid": "703629a5-5db0-4bf7-9720-84e49e17521d",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\Const\\GameInfo.ts": {
+    "time": 1732353086726.8574,
+    "uuid": "8208e254-7f17-4f4e-8770-ae92221db73e",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\Controller\\GameController.ts": {
+    "time": 1732355147468.932,
+    "uuid": "9aa2e1c5-d023-4c31-a92d-0c1bf2005386",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\Controller\\SoundController.ts": {
+    "time": 1732353086851.798,
+    "uuid": "6b331de7-4b55-4a08-b095-681f437f548a",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\Controller\\UIGameController.ts": {
+    "time": 1732353086883.068,
+    "uuid": "eae0a180-6b6c-41fb-bf24-e054165f939c",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\GamePlay\\HideMask.ts": {
+    "time": 1732357226283.025,
+    "uuid": "f6c02d92-2a89-49d0-b14e-d4bba72e5a8f",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\Others\\HandleLogicGamePlay.ts": {
+    "time": 1732357171888.4756,
+    "uuid": "45fe3322-0661-48ba-b1ba-b8f4ddcac881",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\Utils\\EnablePhysics.ts": {
+    "time": 1732353087226.74,
+    "uuid": "bcf6df5e-8eb1-488a-b217-771bcdc22457",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\Utils\\Responsive.ts": {
+    "time": 1732359874915.6604,
+    "uuid": "ff71ea16-94c0-487e-bf0d-6f6375515da5",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\Utils\\Singleton.ts": {
+    "time": 1732353087304.8435,
+    "uuid": "68e71e46-300a-45c6-a436-7aa7acd49d56",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\Utils\\Utility.ts": {
+    "time": 1732353087351.6807,
+    "uuid": "29ed240b-aa91-4932-a5a4-5ca3411d6bd9",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Animation.meta": {
+    "time": 1732353082115.99
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art.meta": {
+    "time": 1732353082147.233
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Prefab.meta": {
+    "time": 1732353082162.8545
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scene.meta": {
+    "time": 1732353082178.4756
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts.meta": {
+    "time": 1732353082209.7173
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\SkyBox.meta": {
+    "time": 1732353082225.3408
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Animation\\Tutorial_Anim.anim.meta": {
+    "time": 1732353082459.659
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\AdHelper.meta": {
+    "time": 1732353086476.885
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\Const.meta": {
+    "time": 1732353086492.5342
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\Controller.meta": {
+    "time": 1732353086508.128
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\GamePlay.meta": {
+    "time": 1732353086539.3704
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\Others.meta": {
+    "time": 1732353086601.8833
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\Utils.meta": {
+    "time": 1732353086617.4792
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scene\\Op12.scene.meta": {
+    "time": 1732353086445.6719
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\SkyBox\\default_skybox.png.meta": {
+    "time": 1732353087414.166
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\AdHelper\\IronSource.ts.meta": {
+    "time": 1732353086664.369
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\Const\\CONST.ts.meta": {
+    "time": 1732353086711.205
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\Const\\GameInfo.ts.meta": {
+    "time": 1732353086742.4497
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\Controller\\GameController.ts.meta": {
+    "time": 1732353086836.1755
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\Controller\\SoundController.ts.meta": {
+    "time": 1732353086867.4524
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\Controller\\UIGameController.ts.meta": {
+    "time": 1732353086914.2827
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\GamePlay\\HideMask.ts.meta": {
+    "time": 1732353086992.389
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\Others\\HandleLogicGamePlay.ts.meta": {
+    "time": 1732353087164.2522
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\Utils\\EnablePhysics.ts.meta": {
+    "time": 1732353087257.98
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\Utils\\Responsive.ts.meta": {
+    "time": 1732353087289.2222
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\Utils\\Singleton.ts.meta": {
+    "time": 1732353087336.0583
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\Utils\\Utility.ts.meta": {
+    "time": 1732353087367.3018
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1).meta": {
+    "time": 1732356741300.8728
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM.meta": {
+    "time": 1732353082553.4187
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\1 Dollar Variant.fbx.meta": {
+    "time": 1732353082600.252
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Box.fbx.meta": {
+    "time": 1732353082662.7715
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\CardboardBox_20x20x10.fbx.meta": {
+    "time": 1732353082709.6018
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Desk.fbx.meta": {
+    "time": 1732353082756.4805
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Desk_D.png.meta": {
+    "time": 1732353082803.3303
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Drink_Csush.fbx.meta": {
+    "time": 1732353082912.6785
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Flour.fbx.meta": {
+    "time": 1732353082959.5422
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Juice_Apple.fbx.meta": {
+    "time": 1732353083006.4055
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\NPC.fbx.meta": {
+    "time": 1732353083069.3013
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound.meta": {
+    "time": 1732353083163.032
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM.meta": {
+    "time": 1732353083241.1404
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM Playable Ads.fbx.meta": {
+    "time": 1732353083209.9268
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures.meta": {
+    "time": 1732353083256.76
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI.meta": {
+    "time": 1732353083272.411
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Viga-Regular.ttf.meta": {
+    "time": 1732353083334.8691
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound\\click.mp3.meta": {
+    "time": 1732353083522.3232
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound\\complate.mp3.meta": {
+    "time": 1732353083569.1865
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound\\error.mp3.meta": {
+    "time": 1732353083600.4592
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound\\Scanning Product.wav.meta": {
+    "time": 1732353083787.8887
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound\\Success.mp3.meta": {
+    "time": 1732353083834.7795
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Desk.fbx.meta": {
+    "time": 1732353083928.5056
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Materials.meta": {
+    "time": 1732353083975.3438
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Textures.meta": {
+    "time": 1732353084006.5837
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\BoxLeft.png.meta": {
+    "time": 1732353084515.3594
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\BtnOpen.png.meta": {
+    "time": 1732353084546.6033
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\btn_blue_l.png.meta": {
+    "time": 1732249176917.3193
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\button_circle_1.png.meta": {
+    "time": 1732353084593.4639
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\CardboardBox_20x20x10_Albedo.png.meta": {
+    "time": 1732353084624.6797
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\circle128_stroke8px.png.meta": {
+    "time": 1732353084671.5713
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\Diffuse Item.png.meta": {
+    "time": 1732353084718.435
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\frame_currency.png.meta": {
+    "time": 1732353084749.6487
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\HealthBar.png.meta": {
+    "time": 1732249176973.1704
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\Outdoor.png.meta": {
+    "time": 1732353084796.5422
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\Store.png.meta": {
+    "time": 1732353084843.4048
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\storeBtn.png.meta": {
+    "time": 1732353084874.6353
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\1.png.meta": {
+    "time": 1732353084932.6262
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\10.png.meta": {
+    "time": 1732353084975.0303
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\20.png.meta": {
+    "time": 1732353085017.4668
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\5.png.meta": {
+    "time": 1732353085058.56
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\50.png.meta": {
+    "time": 1732353085086.223
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\box_white.png.meta": {
+    "time": 1732353085133.0862
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\btn_blue.png.meta": {
+    "time": 1732353085179.9233
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\btn_green.png.meta": {
+    "time": 1732353085258.0574
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\CashBoard.png.meta": {
+    "time": 1732353085304.8936
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\coin1.png.meta": {
+    "time": 1732353085336.1638
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\coin10.png.meta": {
+    "time": 1732353085383.0305
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\coin25.png.meta": {
+    "time": 1732353085429.8953
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\coin5.png.meta": {
+    "time": 1732353085461.1345
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\coin50.png.meta": {
+    "time": 1732353085508.0083
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\hand (2).png.meta": {
+    "time": 1732353085554.8354
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\icon_common_45.png.meta": {
+    "time": 1732353085711.4397
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\rotate.png.meta": {
+    "time": 1732353085789.5476
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Textures\\Desk_D.png.meta": {
+    "time": 1732353084421.6016
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Textures\\square128_round10px_stroke5px.png.meta": {
+    "time": 1732353084468.467
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)": {
+    "time": 1732353082553.4187,
+    "uuid": "a1ec7a2b-a12b-4e75-adbf-eab78c9d202a",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM": {
+    "time": 1732356665265.5125,
+    "uuid": "78808c9c-bcb9-4bc9-b33d-3b96f41b2c1d",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Desk_D.png": {
+    "time": 1732353082787.7083,
+    "uuid": "7adba0a4-b009-4d57-83bf-2415ceac872d",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Desk.fbx": {
+    "time": 1732353082740.8708,
+    "uuid": "cbf94fb2-4f88-4cd7-8862-a2ef7182c567",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Drink_Csush.fbx": {
+    "time": 1732353082881.4363,
+    "uuid": "b4606233-0b59-4798-908c-e37635701e8a",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Box.fbx": {
+    "time": 1732353082631.4941,
+    "uuid": "27c81020-f1bc-4888-9b30-841861e4180b",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\CardboardBox_20x20x10.fbx": {
+    "time": 1732353082693.979,
+    "uuid": "c05301c9-9eed-4e50-95e4-2c9c3de70076",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound": {
+    "time": 1732356496905.3193,
+    "uuid": "df69d216-6d1e-4009-a19c-eeffe7b026b1",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM": {
+    "time": 1732356331954.034,
+    "uuid": "31b30e01-2d23-4be4-97a2-cbded4c961b3",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Flour.fbx": {
+    "time": 1732353082928.329,
+    "uuid": "ca1ed451-1c89-42f7-8f43-645f6dc9c01f",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures": {
+    "time": 1732353084859.0264,
+    "uuid": "cc88d0aa-499e-4c5d-aeee-0d8f08d9e02a",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI": {
+    "time": 1732356579846.486,
+    "uuid": "2e727cd9-ce4d-4028-b2dc-e2baf33a3e03",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Viga-Regular.ttf": {
+    "time": 1732353083303.6255,
+    "uuid": "b19120ae-a368-49b7-b283-08cca12d9238",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\1 Dollar Variant.fbx": {
+    "time": 1732353082584.6304,
+    "uuid": "7787866f-c79d-4077-9ebd-7403a8a99aa8",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Juice_Apple.fbx": {
+    "time": 1732353082975.165,
+    "uuid": "47d76584-3810-4863-b30d-8314422913cd",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound\\click.mp3": {
+    "time": 1732353083506.7295,
+    "uuid": "47f6d54e-29db-4bf5-b56d-3bc9cf7aea37",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound\\complate.mp3": {
+    "time": 1732353083537.9724,
+    "uuid": "a3b02e05-4d57-4184-8c07-62390d31c166",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound\\error.mp3": {
+    "time": 1732353083584.8428,
+    "uuid": "43097609-e2cc-4062-8451-e9841120676a",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound\\Scanning Product.wav": {
+    "time": 1732353083772.2646,
+    "uuid": "e75b7723-0eca-4ac5-a810-a0ce39be46c9",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound\\Success.mp3": {
+    "time": 1732353083819.1562,
+    "uuid": "f8e3a24a-c6bf-4ca5-9a6d-3538ad32af7e",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Materials": {
+    "time": 1732353084359.7058,
+    "uuid": "b34d9ee1-7eee-42b5-bcdb-6b24633da52b",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Textures": {
+    "time": 1732353084437.2505,
+    "uuid": "b7756394-e414-4ed3-b45d-725466c66611",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\BoxLeft.png": {
+    "time": 1732353084484.115,
+    "uuid": "dd04cefe-0f73-46d8-8cee-8707d2f50bac",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\BtnOpen.png": {
+    "time": 1732353084530.9785,
+    "uuid": "8cae107d-fb0d-4d13-8b38-91e9c4e4d2e3",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\btn_blue_l.png": {
+    "time": 1732289201257.211,
+    "uuid": "510150c3-e33d-48ee-9349-ba9910f2b228",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\button_circle_1.png": {
+    "time": 1732353084562.1938,
+    "uuid": "e425942d-e9c3-46c7-b04f-678c8fb95a99",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\CardboardBox_20x20x10_Albedo.png": {
+    "time": 1732353084609.0854,
+    "uuid": "ae71e06f-ba65-44fc-b546-c28d30a3e8d5",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\circle128_stroke8px.png": {
+    "time": 1732353084655.9236,
+    "uuid": "485b5387-5aab-4bb0-8efd-90cfff67baa3",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\Diffuse Item.png": {
+    "time": 1732353084687.209,
+    "uuid": "30c293f4-d27c-41fb-a10d-8650e7c3b8c2",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\frame_currency.png": {
+    "time": 1732353084734.0554,
+    "uuid": "74a7c7ac-ac65-416c-afda-82a44d2687ee",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\HealthBar.png": {
+    "time": 1732289201400.303,
+    "uuid": "8aad1067-d22d-4193-a36a-a49ef7fbdfc9",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\Outdoor.png": {
+    "time": 1732353084780.923,
+    "uuid": "bd87e1dc-9bdd-4dcd-b0b4-7f07d1d48a29",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\Store.png": {
+    "time": 1732353084812.1624,
+    "uuid": "b9095461-8bf1-490c-bdcb-34774c63711c",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\storeBtn.png": {
+    "time": 1732353084859.0264,
+    "uuid": "961ff9b4-e484-45b1-9dc5-b44c08e4b08a",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\1.png": {
+    "time": 1732353084910.1821,
+    "uuid": "7a5686bc-34c3-4d7b-8fb1-d61384ef4c1c",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\10.png": {
+    "time": 1732353084952.054,
+    "uuid": "300a3ecc-e2cc-45dc-95ab-15defeae2bef",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\20.png": {
+    "time": 1732353084994.529,
+    "uuid": "68f85b8a-7752-4d6d-a012-d4359e192cfc",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\5.png": {
+    "time": 1732353085036.6455,
+    "uuid": "462155ca-8cfe-432c-b097-3f45e219d8cc",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\50.png": {
+    "time": 1732353085070.526,
+    "uuid": "fc1cfbbf-5801-4cee-bc8c-5e452832e675",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\box_white.png": {
+    "time": 1732353085117.467,
+    "uuid": "055b89a1-8768-4023-93b8-14c21754e2a1",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\btn_blue.png": {
+    "time": 1732353085148.682,
+    "uuid": "0294e28f-0c5e-457e-ab8a-d883cf2377eb",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\btn_green.png": {
+    "time": 1732353085242.4097,
+    "uuid": "3a408872-47fa-4c70-b096-b9f1f4ce6112",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\CashBoard.png": {
+    "time": 1732353085273.6797,
+    "uuid": "aeccc831-8921-4696-affe-53ba65ab6b7f",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM Playable Ads.fbx": {
+    "time": 1732353083194.2756,
+    "uuid": "bd7060f2-0622-4b82-836f-77c632ce3dcf",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\coin1.png": {
+    "time": 1732353085320.543,
+    "uuid": "7869e713-5e16-4406-b7a5-40ee5b318ded",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\coin10.png": {
+    "time": 1732353085367.406,
+    "uuid": "cc9b8217-1dea-4878-a131-d05cf0238e2e",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\coin25.png": {
+    "time": 1732353085398.6255,
+    "uuid": "3046d02d-ee0b-40b1-87f3-45a62f0d20db",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\coin5.png": {
+    "time": 1732353085445.4849,
+    "uuid": "3585f639-f6f4-405c-b763-c7b2f4db114c",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\coin50.png": {
+    "time": 1732353085492.3806,
+    "uuid": "43f19a7e-632b-4911-a445-ea7707421554",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\hand (2).png": {
+    "time": 1732353085523.5984,
+    "uuid": "9226adbc-1324-4b8d-98d8-a888893b510f",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\icon_common_45.png": {
+    "time": 1732353085695.819,
+    "uuid": "3329f80c-266c-4884-a9fc-46e2e253d486",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\rotate.png": {
+    "time": 1732353085773.9258,
+    "uuid": "e2445f84-d835-4390-8c6e-391010262363",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Textures\\Desk_D.png": {
+    "time": 1732353084390.3872,
+    "uuid": "21e3f143-d985-4e94-9a17-a05a41128b36",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Textures\\square128_round10px_stroke5px.png": {
+    "time": 1732353084437.2505,
+    "uuid": "06b5dad5-1ede-468d-80d1-ed2653f7fec6",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Desk.fbx": {
+    "time": 1732353083912.8557,
+    "uuid": "b3cbd2df-a856-4e15-8193-bc87dbe2f468",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\NPC.fbx": {
+    "time": 1732353083053.7935,
+    "uuid": "771baa4d-388b-45ff-96d0-6f93fdf42482",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Materials\\Store.mtl.meta": {
+    "time": 1732353084374.7349
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Materials\\Store.mtl": {
+    "time": 1732353084357.7117,
+    "uuid": "72c9b4fa-59cc-4742-bb1e-1238869505f1",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Materials\\desk.mtl.meta": {
+    "time": 1732353084147.2036
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Materials\\desk.mtl": {
+    "time": 1732353084131.5564,
+    "uuid": "045e17fe-be41-40b0-87b5-f2b09bf39422",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Materials\\item.mtl.meta": {
+    "time": 1732353084289.1223
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Materials\\item.mtl": {
+    "time": 1732353084266.4949,
+    "uuid": "df3240a8-30d1-4c1c-a10d-6d7590627820",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\Money.meta": {
+    "time": 1732353086555.02
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\Money": {
+    "time": 1732353087023.66,
+    "uuid": "43a7747a-dcca-4902-83ee-f8833887e1c9",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\Money\\MoneyBehavior.ts.meta": {
+    "time": 1732353087039.254
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\Money\\MoneyBehavior.ts": {
+    "time": 1732353087023.66,
+    "uuid": "db6cfe8a-cbe0-4778-9f82-37ffa312a529",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Animation\\Emoji_Anim.anim.meta": {
+    "time": 1732353082272.2036
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Animation\\Emoji_Anim.anim": {
+    "time": 1732353082256.5825,
+    "uuid": "245728e3-8b52-4991-9863-7f09524d7441",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\NPC_Idle.fbx.meta": {
+    "time": 1732353083147.4124
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\NPC_Idle.fbx": {
+    "time": 1732353083116.171,
+    "uuid": "0e3b663d-f50f-44ca-a156-459890feac2a",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\NPC.meta": {
+    "time": 1732353086586.2485
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\NPC": {
+    "time": 1732357468483.0378,
+    "uuid": "c2afdc6f-034e-4d65-9caf-30ba85176df7",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\NPC\\NPC_Behavior.ts.meta": {
+    "time": 1732353087086.1167
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\NPC\\NPC_Behavior.ts": {
+    "time": 1732353087070.4963,
+    "uuid": "d8c38fe6-6ba7-4787-b65f-0c23e085a38b",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\Const\\interface.ts.meta": {
+    "time": 1732353086789.3137
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\Const\\interface.ts": {
+    "time": 1732353086773.7183,
+    "uuid": "773aae95-19d3-4de1-887d-f68b5fa67770",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Prefab\\Flour.prefab.meta": {
+    "time": 1732353086351.9143
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Prefab\\Flour.prefab": {
+    "time": 1732353086336.2952,
+    "uuid": "e821cc50-5a43-4646-99f2-e8d77d5949ad",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Prefab\\Drink_Csush.prefab.meta": {
+    "time": 1732353086305.08
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Prefab\\Drink_Csush.prefab": {
+    "time": 1732353086289.429,
+    "uuid": "e844d34d-9a13-4aec-b611-f2e2668549d8",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Prefab\\Juice_Apple.prefab.meta": {
+    "time": 1732353086398.8066
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Prefab\\Juice_Apple.prefab": {
+    "time": 1732353086383.1848,
+    "uuid": "31c91570-e672-4102-93d3-4c9e194a9226",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Materials\\dollar.mtl.meta": {
+    "time": 1732353084244.25
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Materials\\dollar.mtl": {
+    "time": 1732353084221.5427,
+    "uuid": "cb1f2ceb-7390-4347-9911-1d0e91551a71",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Materials\\cen.mtl.meta": {
+    "time": 1732353084100.314
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Materials\\cen.mtl": {
+    "time": 1732353084084.6907,
+    "uuid": "cf2928e7-8401-4704-a041-4b9bb74a5a86",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Prefab\\Dollar.prefab.meta": {
+    "time": 1732353086258.1887
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Prefab\\Dollar.prefab": {
+    "time": 1732353086242.567,
+    "uuid": "c67e9fe8-d2a6-4aff-b8b5-cbf81c2a834e",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Prefab\\Cen.prefab.meta": {
+    "time": 1732353086226.9436
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Prefab\\Cen.prefab": {
+    "time": 1732353086195.703,
+    "uuid": "9e13c7c0-5019-4ffd-9276-f35a9c5ce048",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Animation\\ShowFlourItem.anim.meta": {
+    "time": 1732353082365.9595
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Animation\\ShowFlourItem.anim": {
+    "time": 1732355785532.5588,
+    "uuid": "7c223704-13cf-43a2-b9ef-f0771291ecb5",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\icon_next.png.meta": {
+    "time": 1732353085758.3047
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\icon_next.png": {
+    "time": 1732353085727.0916,
+    "uuid": "aa1b44b6-d5c4-429e-b720-057c2652d328",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Animation": {
+    "time": 1732342874816.8943,
+    "uuid": "971a6aaa-aa7a-41a1-a80b-e74252a3544c",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art": {
+    "time": 1732300678000,
+    "uuid": "dd7db289-9cce-422a-8aee-edff75cab724",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Prefab": {
+    "time": 1732301068000,
+    "uuid": "ee3ea39c-d0f5-46cf-9510-8030ac4d74c1",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scene": {
+    "time": 1732193885000,
+    "uuid": "4c8459e6-8398-457f-8d2d-f9718337be10",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts": {
+    "time": 1732295190000,
+    "uuid": "b0e16b25-b26c-4e4d-97da-71f938cd2544",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\SkyBox": {
+    "time": 1732187375000,
+    "uuid": "f098230d-bae6-4f4e-b8ca-11fe3e7033c5",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Animation\\Emoji_Anim.anim": {
+    "time": 1732284622000,
+    "uuid": "245728e3-8b52-4991-9863-7f09524d7441",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Animation\\ShowFlourItem.anim": {
+    "time": 1732330226598.1467,
+    "uuid": "7c223704-13cf-43a2-b9ef-f0771291ecb5",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Animation\\Tutorial_Anim.anim": {
+    "time": 1732330304261.6296,
+    "uuid": "8571f78c-93b2-4e2a-a572-f09ee14bdb36",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)": {
+    "time": 1732249176000,
+    "uuid": "1b8c63e7-e9b0-4465-bb3d-d5dcf1e3f3d9",
+    "missing": true
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Line": {
+    "time": 1732300662000,
+    "uuid": "c82a29cf-10e0-41ae-bbfe-787738e19b49",
+    "missing": true
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\SpriteFrame": {
+    "time": 1732294627000,
+    "uuid": "63511267-74d9-4019-9c75-85aeec233d03",
+    "missing": true
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Prefab\\Cen.prefab": {
+    "time": 1732302984000,
+    "uuid": "9e13c7c0-5019-4ffd-9276-f35a9c5ce048",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Prefab\\Dollar.prefab": {
+    "time": 1732302981000,
+    "uuid": "c67e9fe8-d2a6-4aff-b8b5-cbf81c2a834e",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Prefab\\Drink_Csush.prefab": {
+    "time": 1732302522000,
+    "uuid": "e844d34d-9a13-4aec-b611-f2e2668549d8",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Prefab\\Flour.prefab": {
+    "time": 1732302511000,
+    "uuid": "e821cc50-5a43-4646-99f2-e8d77d5949ad",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Prefab\\Juice_Apple.prefab": {
+    "time": 1732302515000,
+    "uuid": "31c91570-e672-4102-93d3-4c9e194a9226",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scene\\Op12.scene": {
+    "time": 1732351997103.9094,
+    "uuid": "ba770f42-b1bd-480a-812a-b2d060f264d8",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\AdHelper": {
+    "time": 1732187374000,
+    "uuid": "8451287e-62a1-41a9-884f-385e91dd6f9a",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\Const": {
+    "time": 1732297411000,
+    "uuid": "d9110fee-f3d6-4f7c-89ab-dba711f2dc23",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\Controller": {
+    "time": 1732264020000,
+    "uuid": "cd690fdf-2f9d-4a2c-b010-2de7144c86be",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\GamePlay": {
+    "time": 1732187375000,
+    "uuid": "b9e24c7b-4dfb-405b-8e66-3cd7c458f4aa",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\Money": {
+    "time": 1732265211000,
+    "uuid": "43a7747a-dcca-4902-83ee-f8833887e1c9",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\NPC": {
+    "time": 1732341030765.024,
+    "uuid": "c2afdc6f-034e-4d65-9caf-30ba85176df7",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\Others": {
+    "time": 1732187375000,
+    "uuid": "1a494f87-d208-4166-b4f3-9efde4684997",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\Utils": {
+    "time": 1732187375000,
+    "uuid": "7cd0790a-c302-48bb-b183-279a1ae53564",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\SkyBox\\default_skybox.png": {
+    "time": 1732187375000,
+    "uuid": "09b14ffe-3ef0-4ccd-b5d5-0a9e54f89edb",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM": {
+    "time": 1732295446000,
+    "uuid": "78808c9c-bcb9-4bc9-b33d-3b96f41b2c1d",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Line\\line_white.png": {
+    "time": 1732187368000,
+    "uuid": "93f7c061-bd10-46e3-9893-77443ef19913",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\SpriteFrame\\Emoji-Trail.png": {
+    "time": 1732288495000,
+    "uuid": "202e52b3-830c-43fc-97c7-2710d2c14f64",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\SpriteFrame\\facebook-angry-emoji-emoticon-logo-4EC357E553-seeklogo.com.png": {
+    "time": 1732288497000,
+    "uuid": "d2e4d7fd-9dcb-4bd6-8eaa-4b155bd997f1",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\SpriteFrame\\heart_trail.png": {
+    "time": 1730922233000,
+    "uuid": "c528c2bb-bed1-441d-86b7-777cc2841830",
+    "missing": true
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\SpriteFrame\\icon_legacy.png": {
+    "time": 1732187369000,
+    "uuid": "ffb6b85f-c542-4834-9060-52aeaf57889b",
+    "missing": true
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\SpriteFrame\\logo.png": {
+    "time": 1732187370000,
+    "uuid": "07e8c97a-2b1d-40fc-bb4e-d76c708365c1",
+    "missing": true
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\SpriteFrame\\png-transparent-angry-expression-get-angry-angry-sign-thumbnail.png": {
+    "time": 1732284012000,
+    "uuid": "dca44812-1264-4e04-b1b7-045420120358",
+    "missing": true
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\SpriteFrame\\stink_trail.png": {
+    "time": 1730922233000,
+    "uuid": "e3b6c539-f5b7-410b-8059-bcd7fdc73e61",
+    "missing": true
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\SpriteFrame\\tut_dashline_ellipse.png": {
+    "time": 1730950665000,
+    "uuid": "9a5528e9-c757-407d-a034-dc53e97760a0",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\AdHelper\\IronSource.ts": {
+    "time": 1732187916000,
+    "uuid": "b6c66277-217f-4536-809a-48462fc2596e",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\Const\\CONST.ts": {
+    "time": 1732332889792.011,
+    "uuid": "703629a5-5db0-4bf7-9720-84e49e17521d",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\Const\\GameInfo.ts": {
+    "time": 1732347061110.9329,
+    "uuid": "8208e254-7f17-4f4e-8770-ae92221db73e",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\Const\\interface.ts": {
+    "time": 1732297133000,
+    "uuid": "773aae95-19d3-4de1-887d-f68b5fa67770",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\Controller\\GameController.ts": {
+    "time": 1732351395057.9011,
+    "uuid": "9aa2e1c5-d023-4c31-a92d-0c1bf2005386",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\Controller\\SoundController.ts": {
+    "time": 1732350111760.1226,
+    "uuid": "6b331de7-4b55-4a08-b095-681f437f548a",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\Controller\\UIGameController.ts": {
+    "time": 1732350115328.2368,
+    "uuid": "eae0a180-6b6c-41fb-bf24-e054165f939c",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\GamePlay\\GamePlay.ts": {
+    "time": 1732327575240.1306,
+    "uuid": "0b046e23-7738-4bb4-8619-f03ea3888146",
+    "missing": true
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\GamePlay\\HideMask.ts": {
+    "time": 1732349028759.7546,
+    "uuid": "f6c02d92-2a89-49d0-b14e-d4bba72e5a8f",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\Money\\MoneyBehavior.ts": {
+    "time": 1732351254400.9421,
+    "uuid": "db6cfe8a-cbe0-4778-9f82-37ffa312a529",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\NPC\\NPC_Behavior.ts": {
+    "time": 1732344039461.5352,
+    "uuid": "d8c38fe6-6ba7-4787-b65f-0c23e085a38b",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\Others\\HandleLogicGamePlay.ts": {
+    "time": 1732349774416.3154,
+    "uuid": "45fe3322-0661-48ba-b1ba-b8f4ddcac881",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\Others\\vFx_FireLight.ts": {
+    "time": 1732187375000,
+    "uuid": "6b4b36a0-ce3d-4ccf-90c2-4118dc72d332",
+    "missing": true
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\Utils\\EnablePhysics.ts": {
+    "time": 1732293806000,
+    "uuid": "bcf6df5e-8eb1-488a-b217-771bcdc22457",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\Utils\\Responsive.ts": {
+    "time": 1732351986698.4597,
+    "uuid": "ff71ea16-94c0-487e-bf0d-6f6375515da5",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\Utils\\Singleton.ts": {
+    "time": 1732187375000,
+    "uuid": "68e71e46-300a-45c6-a436-7aa7acd49d56",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\Utils\\Utility.ts": {
+    "time": 1732188368000,
+    "uuid": "29ed240b-aa91-4932-a5a4-5ca3411d6bd9",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\1 Dollar Variant.fbx": {
+    "time": 1732248899000,
+    "uuid": "7787866f-c79d-4077-9ebd-7403a8a99aa8",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Box.fbx": {
+    "time": 1732248899000,
+    "uuid": "27c81020-f1bc-4888-9b30-841861e4180b",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\CardboardBox_20x20x10.fbx": {
+    "time": 1732248899000,
+    "uuid": "c05301c9-9eed-4e50-95e4-2c9c3de70076",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Desk.fbx": {
+    "time": 1732248899000,
+    "uuid": "cbf94fb2-4f88-4cd7-8862-a2ef7182c567",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Desk_D.png": {
+    "time": 1732248899000,
+    "uuid": "7adba0a4-b009-4d57-83bf-2415ceac872d",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Dorchester3D.com_npc.skp": {
+    "time": 1732290794000,
+    "uuid": "7b4eb6c5-4bcb-447c-8d67-0ff9c4c2e058",
+    "missing": true
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Drink_Csush.fbx": {
+    "time": 1732248899000,
+    "uuid": "b4606233-0b59-4798-908c-e37635701e8a",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Flour.fbx": {
+    "time": 1732248900000,
+    "uuid": "ca1ed451-1c89-42f7-8f43-645f6dc9c01f",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Juice_Apple.fbx": {
+    "time": 1732248900000,
+    "uuid": "47d76584-3810-4863-b30d-8314422913cd",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\NPC.fbx": {
+    "time": 1732248900000,
+    "uuid": "771baa4d-388b-45ff-96d0-6f93fdf42482",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\NPC_Idle.fbx": {
+    "time": 1732291613000,
+    "uuid": "0e3b663d-f50f-44ca-a156-459890feac2a",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound": {
+    "time": 1732332996464.8523,
+    "uuid": "df69d216-6d1e-4009-a19c-eeffe7b026b1",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM": {
+    "time": 1732295453000,
+    "uuid": "31b30e01-2d23-4be4-97a2-cbded4c961b3",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM Playable Ads.fbx": {
+    "time": 1732248900000,
+    "uuid": "bd7060f2-0622-4b82-836f-77c632ce3dcf",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures": {
+    "time": 1732344949665.526,
+    "uuid": "cc88d0aa-499e-4c5d-aeee-0d8f08d9e02a",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI": {
+    "time": 1732345602052.2825,
+    "uuid": "2e727cd9-ce4d-4028-b2dc-e2baf33a3e03",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Viga-Regular.ttf": {
+    "time": 1732248900000,
+    "uuid": "b19120ae-a368-49b7-b283-08cca12d9238",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound\\Cash Register Open.wav": {
+    "time": 1732248900000,
+    "uuid": "e5f855ea-6569-4279-87e2-7c90c9c0c810",
+    "missing": true
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound\\Checkout SFX.wav": {
+    "time": 1732248901000,
+    "uuid": "cfb97bbd-83a6-4930-9dd4-d1bfc1ca0623",
+    "missing": true
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound\\click.mp3": {
+    "time": 1732248901000,
+    "uuid": "47f6d54e-29db-4bf5-b56d-3bc9cf7aea37",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound\\complate.mp3": {
+    "time": 1732248901000,
+    "uuid": "a3b02e05-4d57-4184-8c07-62390d31c166",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound\\error.mp3": {
+    "time": 1732248901000,
+    "uuid": "43097609-e2cc-4062-8451-e9841120676a",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound\\Placing Products SFX.wav": {
+    "time": 1732248901000,
+    "uuid": "e7061b5e-8b92-4de1-9747-87381fa86e8d",
+    "missing": true
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound\\Scanning Product.wav": {
+    "time": 1732248901000,
+    "uuid": "e75b7723-0eca-4ac5-a810-a0ce39be46c9",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound\\Success.mp3": {
+    "time": 1732248901000,
+    "uuid": "f8e3a24a-c6bf-4ca5-9a6d-3538ad32af7e",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound\\Teddy-AudioTrimmercom (1).mp3": {
+    "time": 1732248901000,
+    "uuid": "09c77d32-8507-4e10-91f0-37738a7a94af",
+    "missing": true
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Desk.fbx": {
+    "time": 1732248901000,
+    "uuid": "b3cbd2df-a856-4e15-8193-bc87dbe2f468",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Effects": {
+    "time": 1732249176000,
+    "uuid": "22b83edf-0d75-47f1-a3f3-92b431001001",
+    "missing": true
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Materials": {
+    "time": 1732330624560.8762,
+    "uuid": "b34d9ee1-7eee-42b5-bcdb-6b24633da52b",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Textures": {
+    "time": 1732249176000,
+    "uuid": "b7756394-e414-4ed3-b45d-725466c66611",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\BoxLeft.png": {
+    "time": 1732289201000,
+    "uuid": "dd04cefe-0f73-46d8-8cee-8707d2f50bac",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\BtnOpen.png": {
+    "time": 1732289201000,
+    "uuid": "8cae107d-fb0d-4d13-8b38-91e9c4e4d2e3",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\button_circle_1.png": {
+    "time": 1732289201000,
+    "uuid": "e425942d-e9c3-46c7-b04f-678c8fb95a99",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\CardboardBox_20x20x10_Albedo.png": {
+    "time": 1732289201000,
+    "uuid": "ae71e06f-ba65-44fc-b546-c28d30a3e8d5",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\circle128_stroke8px.png": {
+    "time": 1732289201000,
+    "uuid": "485b5387-5aab-4bb0-8efd-90cfff67baa3",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\Diffuse Item.png": {
+    "time": 1732289201000,
+    "uuid": "30c293f4-d27c-41fb-a10d-8650e7c3b8c2",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\frame_currency.png": {
+    "time": 1732289201000,
+    "uuid": "74a7c7ac-ac65-416c-afda-82a44d2687ee",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\Outdoor.png": {
+    "time": 1732289201000,
+    "uuid": "bd87e1dc-9bdd-4dcd-b0b4-7f07d1d48a29",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\Store.png": {
+    "time": 1732289201000,
+    "uuid": "b9095461-8bf1-490c-bdcb-34774c63711c",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\storeBtn.png": {
+    "time": 1732289201000,
+    "uuid": "961ff9b4-e484-45b1-9dc5-b44c08e4b08a",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\1.png": {
+    "time": 1732248902000,
+    "uuid": "7a5686bc-34c3-4d7b-8fb1-d61384ef4c1c",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\10.png": {
+    "time": 1732248902000,
+    "uuid": "300a3ecc-e2cc-45dc-95ab-15defeae2bef",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\20.png": {
+    "time": 1732248902000,
+    "uuid": "68f85b8a-7752-4d6d-a012-d4359e192cfc",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\5.png": {
+    "time": 1732248902000,
+    "uuid": "462155ca-8cfe-432c-b097-3f45e219d8cc",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\50.png": {
+    "time": 1732248902000,
+    "uuid": "fc1cfbbf-5801-4cee-bc8c-5e452832e675",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\box_white.png": {
+    "time": 1732248902000,
+    "uuid": "055b89a1-8768-4023-93b8-14c21754e2a1",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\btn_blue.png": {
+    "time": 1732248902000,
+    "uuid": "0294e28f-0c5e-457e-ab8a-d883cf2377eb",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\btn_green.png": {
+    "time": 1732248902000,
+    "uuid": "3a408872-47fa-4c70-b096-b9f1f4ce6112",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\CashBoard.png": {
+    "time": 1732248902000,
+    "uuid": "aeccc831-8921-4696-affe-53ba65ab6b7f",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\coin1.png": {
+    "time": 1732248902000,
+    "uuid": "7869e713-5e16-4406-b7a5-40ee5b318ded",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\coin10.png": {
+    "time": 1732248902000,
+    "uuid": "cc9b8217-1dea-4878-a131-d05cf0238e2e",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\coin25.png": {
+    "time": 1732248902000,
+    "uuid": "3046d02d-ee0b-40b1-87f3-45a62f0d20db",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\coin5.png": {
+    "time": 1732248903000,
+    "uuid": "3585f639-f6f4-405c-b763-c7b2f4db114c",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\coin50.png": {
+    "time": 1732248903000,
+    "uuid": "43f19a7e-632b-4911-a445-ea7707421554",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\hand (2).png": {
+    "time": 1732248903000,
+    "uuid": "9226adbc-1324-4b8d-98d8-a888893b510f",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\icon_common_45.png": {
+    "time": 1732248903000,
+    "uuid": "3329f80c-266c-4884-a9fc-46e2e253d486",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\icon_next.png": {
+    "time": 1732289201000,
+    "uuid": "aa1b44b6-d5c4-429e-b720-057c2652d328",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\rotate.png": {
+    "time": 1732248903000,
+    "uuid": "e2445f84-d835-4390-8c6e-391010262363",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Effects\\Default.effect": {
+    "time": 1732248901000,
+    "uuid": "0d109910-1907-4d54-854f-6aaeb26b63d4",
+    "missing": true
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Materials\\cen.mtl": {
+    "time": 1732300840000,
+    "uuid": "cf2928e7-8401-4704-a041-4b9bb74a5a86",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Materials\\desk.mtl": {
+    "time": 1732249225000,
+    "uuid": "045e17fe-be41-40b0-87b5-f2b09bf39422",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Materials\\dollar.mtl": {
+    "time": 1732300849000,
+    "uuid": "cb1f2ceb-7390-4347-9911-1d0e91551a71",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Materials\\item.mtl": {
+    "time": 1732254667000,
+    "uuid": "df3240a8-30d1-4c1c-a10d-6d7590627820",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Materials\\Store.mtl": {
+    "time": 1732254432000,
+    "uuid": "72c9b4fa-59cc-4742-bb1e-1238869505f1",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Textures\\Desk_D.png": {
+    "time": 1732248901000,
+    "uuid": "21e3f143-d985-4e94-9a17-a05a41128b36",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Textures\\square128_round10px_stroke5px.png": {
+    "time": 1732248901000,
+    "uuid": "06b5dad5-1ede-468d-80d1-ed2653f7fec6",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Animation.meta": {
+    "time": 1732187367000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art.meta": {
+    "time": 1732187367000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Prefab.meta": {
+    "time": 1732187367000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scene.meta": {
+    "time": 1732187367000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts.meta": {
+    "time": 1732187367000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\SkyBox.meta": {
+    "time": 1732187367000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1).meta": {
+    "time": 1732249176000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Line.meta": {
+    "time": 1732187367000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\SpriteFrame.meta": {
+    "time": 1732187367000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Animation\\ShowFlourItem.anim.meta": {
+    "time": 1732303124000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Animation\\Tutorial_Anim.anim.meta": {
+    "time": 1732187367000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Animation\\Emoji_Anim.anim.meta": {
+    "time": 1732283347000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Prefab\\Cen.prefab.meta": {
+    "time": 1732301068000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Prefab\\Dollar.prefab.meta": {
+    "time": 1732301066000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\AdHelper.meta": {
+    "time": 1732187374000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\Const.meta": {
+    "time": 1732187374000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\Controller.meta": {
+    "time": 1732187374000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Prefab\\Juice_Apple.prefab.meta": {
+    "time": 1732299963000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\GamePlay.meta": {
+    "time": 1732187374000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\Money.meta": {
+    "time": 1732265193000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\NPC.meta": {
+    "time": 1732295190000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\Others.meta": {
+    "time": 1732187374000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\Utils.meta": {
+    "time": 1732187374000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM.meta": {
+    "time": 1732249176000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Prefab\\Drink_Csush.prefab.meta": {
+    "time": 1732299960000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Prefab\\Flour.prefab.meta": {
+    "time": 1732299946000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scene\\Op12.scene.meta": {
+    "time": 1732187374000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Line\\line_white.png.meta": {
+    "time": 1732261998000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\SpriteFrame\\Emoji-Trail.png.meta": {
+    "time": 1732283213000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\SpriteFrame\\facebook-angry-emoji-emoticon-logo-4EC357E553-seeklogo.com.png.meta": {
+    "time": 1732284053000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\SpriteFrame\\heart_trail.png.meta": {
+    "time": 1732283213000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\SpriteFrame\\png-transparent-angry-expression-get-angry-angry-sign-thumbnail.png.meta": {
+    "time": 1732284017000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\SpriteFrame\\icon_legacy.png.meta": {
+    "time": 1732187369000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\AdHelper\\IronSource.ts.meta": {
+    "time": 1732187374000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\Const\\CONST.ts.meta": {
+    "time": 1732187374000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\SpriteFrame\\logo.png.meta": {
+    "time": 1732187370000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\Const\\GameInfo.ts.meta": {
+    "time": 1732187375000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\Const\\interface.ts.meta": {
+    "time": 1732297411000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\Controller\\GameController.ts.meta": {
+    "time": 1732187375000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\SpriteFrame\\stink_trail.png.meta": {
+    "time": 1732283213000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\Controller\\SoundController.ts.meta": {
+    "time": 1732187375000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\Controller\\UIGameController.ts.meta": {
+    "time": 1732187375000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\GamePlay\\GamePlay.ts.meta": {
+    "time": 1732187375000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\GamePlay\\HideMask.ts.meta": {
+    "time": 1732187375000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\Money\\MoneyBehavior.ts.meta": {
+    "time": 1732265211000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\NPC\\NPC_Behavior.ts.meta": {
+    "time": 1732295205000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\Others\\HandleLogicGamePlay.ts.meta": {
+    "time": 1732187375000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\Others\\vFx_FireLight.ts.meta": {
+    "time": 1732187375000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\Utils\\EnablePhysics.ts.meta": {
+    "time": 1732187375000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\Utils\\Responsive.ts.meta": {
+    "time": 1732187375000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\Utils\\Singleton.ts.meta": {
+    "time": 1732187375000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\Utils\\Utility.ts.meta": {
+    "time": 1732187375000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\SpriteFrame\\tut_dashline_ellipse.png.meta": {
+    "time": 1732294640000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\SkyBox\\default_skybox.png.meta": {
+    "time": 1732187375000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Desk_D.png.meta": {
+    "time": 1732249176000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Dorchester3D.com_npc.skp.meta": {
+    "time": 1732290806000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\1 Dollar Variant.fbx.meta": {
+    "time": 1732249176000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Box.fbx.meta": {
+    "time": 1732249176000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Desk.fbx.meta": {
+    "time": 1732249176000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Drink_Csush.fbx.meta": {
+    "time": 1732249176000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Flour.fbx.meta": {
+    "time": 1732249176000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound.meta": {
+    "time": 1732249176000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM.meta": {
+    "time": 1732249176000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Juice_Apple.fbx.meta": {
+    "time": 1732249176000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures.meta": {
+    "time": 1732249176000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI.meta": {
+    "time": 1732249176000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\CardboardBox_20x20x10.fbx.meta": {
+    "time": 1732249176000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Viga-Regular.ttf.meta": {
+    "time": 1732249176000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound\\Cash Register Open.wav.meta": {
+    "time": 1732249176000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound\\Checkout SFX.wav.meta": {
+    "time": 1732249176000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound\\click.mp3.meta": {
+    "time": 1732249176000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound\\complate.mp3.meta": {
+    "time": 1732249176000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound\\error.mp3.meta": {
+    "time": 1732249176000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound\\Placing Products SFX.wav.meta": {
+    "time": 1732249176000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound\\Scanning Product.wav.meta": {
+    "time": 1732249176000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound\\Success.mp3.meta": {
+    "time": 1732249176000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound\\Teddy-AudioTrimmercom (1).mp3.meta": {
+    "time": 1732249176000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Effects.meta": {
+    "time": 1732249176000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Materials.meta": {
+    "time": 1732249176000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Textures.meta": {
+    "time": 1732249176000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\BoxLeft.png.meta": {
+    "time": 1732249176000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\BtnOpen.png.meta": {
+    "time": 1732249176000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\button_circle_1.png.meta": {
+    "time": 1732249176000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\CardboardBox_20x20x10_Albedo.png.meta": {
+    "time": 1732249176000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\circle128_stroke8px.png.meta": {
+    "time": 1732249176000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM Playable Ads.fbx.meta": {
+    "time": 1732249177000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\Diffuse Item.png.meta": {
+    "time": 1732249176000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\frame_currency.png.meta": {
+    "time": 1732249176000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\Outdoor.png.meta": {
+    "time": 1732249176000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\Store.png.meta": {
+    "time": 1732249176000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Textures\\storeBtn.png.meta": {
+    "time": 1732249177000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\1.png.meta": {
+    "time": 1732250762000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\10.png.meta": {
+    "time": 1732250762000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\20.png.meta": {
+    "time": 1732250762000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\5.png.meta": {
+    "time": 1732250762000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\box_white.png.meta": {
+    "time": 1732250762000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\50.png.meta": {
+    "time": 1732250762000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\btn_blue.png.meta": {
+    "time": 1732250762000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\btn_green.png.meta": {
+    "time": 1732250762000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\coin1.png.meta": {
+    "time": 1732250762000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\CashBoard.png.meta": {
+    "time": 1732250762000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\coin10.png.meta": {
+    "time": 1732250762000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\coin25.png.meta": {
+    "time": 1732250762000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\coin5.png.meta": {
+    "time": 1732250762000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\coin50.png.meta": {
+    "time": 1732250762000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\icon_common_45.png.meta": {
+    "time": 1732250762000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\hand (2).png.meta": {
+    "time": 1732250762000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\icon_next.png.meta": {
+    "time": 1732304231000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Effects\\Default.effect.meta": {
+    "time": 1732249177000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\rotate.png.meta": {
+    "time": 1732250762000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Materials\\cen.mtl.meta": {
+    "time": 1732300826000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Materials\\desk.mtl.meta": {
+    "time": 1732249206000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Materials\\dollar.mtl.meta": {
+    "time": 1732300795000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Materials\\item.mtl.meta": {
+    "time": 1732254658000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Materials\\Store.mtl.meta": {
+    "time": 1732254425000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Textures\\square128_round10px_stroke5px.png.meta": {
+    "time": 1732249177000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Textures\\Desk_D.png.meta": {
+    "time": 1732249177000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Desk.fbx.meta": {
+    "time": 1732249178000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\NPC_Idle.fbx.meta": {
+    "time": 1732291784000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\NPC.fbx.meta": {
+    "time": 1732249181000
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound\\newBG.mp3.meta": {
+    "time": 1732328908809.8328
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound\\newBG.mp3": {
+    "time": 1732328890370.7202,
+    "uuid": "71489b09-a7b1-4a2a-b1f4-de16020621ec",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Materials\\item_stroke.mtl.meta": {
+    "time": 1732329857992.4055
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Materials\\item_stroke.mtl": {
+    "time": 1732330292100.0752,
+    "uuid": "846219db-e5c3-446d-8777-c5a1a66ab713",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Materials\\desk_stroke.mtl.meta": {
+    "time": 1732330618244.6023
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Materials\\desk_stroke.mtl": {
+    "time": 1732330663526.6035,
+    "uuid": "fc73cf11-a375-4d94-9b66-ca4340d580c5",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound\\CheckoutSFX_new.mp3.meta": {
+    "time": 1732332996476.82
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound\\PlacingProductsSFX_new.mp3.meta": {
+    "time": 1732332996476.82
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound\\PlacingProductsSFX_new.mp3": {
+    "time": 1732332983666.6477,
+    "uuid": "6608c959-4c74-4376-8d1f-1d730939c833",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound\\CheckoutSFX_new.mp3": {
+    "time": 1732332948888.14,
+    "uuid": "9f4f874a-562f-492a-8ac2-50949b54aa22",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\NPC\\NPC_Controller.ts.meta": {
+    "time": 1732341030766.0205
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Scripts\\NPC\\NPC_Controller.ts": {
+    "time": 1732350120912.7458,
+    "uuid": "734ed68a-2c14-4bc8-9a1e-61f0a0ad1f61",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Animation\\ShowDrinkItem.anim.meta": {
+    "time": 1732342860736.923
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Animation\\ShowDrinkItem.anim": {
+    "time": 1732343556006.3167,
+    "uuid": "b879015c-f41c-4ce3-b9e9-c24fd2d6f2ab",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Animation\\ShowJuiceItem.anim.meta": {
+    "time": 1732342874818.8906
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Animation\\ShowJuiceItem.anim": {
+    "time": 1732343613399.967,
+    "uuid": "cb4e5e2b-69b1-47f9-bd8b-0fc94e90a984",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\btn_blue_l.png.meta": {
+    "time": 1732344805037.5105
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\btn_blue_l.png": {
+    "time": 1732289201000,
+    "uuid": "510150c3-e33d-48ee-9349-ba9910f2b228",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\HealthBar.png.meta": {
+    "time": 1732344947088.2607
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\HealthBar.png": {
+    "time": 1732289201000,
+    "uuid": "8aad1067-d22d-4193-a36a-a49ef7fbdfc9",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\HealthBa_new.png.meta": {
+    "time": 1732345470123.379
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\HealthBa_new.png": {
+    "time": 1732345438772.891,
+    "uuid": "0edc51f2-8819-4662-98ff-8695f06049b2",
+    "missing": false
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\HealthBar_pts.png.meta": {
+    "time": 1732345610660.3203
+  },
+  "G:\\pa\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\HealthBar_pts.png": {
+    "time": 1732345577283.1868,
+    "uuid": "ffabf5f7-0bba-4fee-92cd-98e66142c93a",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Animation\\ShowDrinkItem.anim": {
+    "time": 1732353082303.446,
+    "uuid": "b879015c-f41c-4ce3-b9e9-c24fd2d6f2ab",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Animation\\ShowJuiceItem.anim": {
+    "time": 1732355890850.243,
+    "uuid": "cb4e5e2b-69b1-47f9-bd8b-0fc94e90a984",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\NPC\\NPC_Controller.ts": {
+    "time": 1732353087101.7666,
+    "uuid": "734ed68a-2c14-4bc8-9a1e-61f0a0ad1f61",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound\\CheckoutSFX_new.mp3": {
+    "time": 1732353083459.866,
+    "uuid": "9f4f874a-562f-492a-8ac2-50949b54aa22",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound\\newBG.mp3": {
+    "time": 1732353083631.696,
+    "uuid": "71489b09-a7b1-4a2a-b1f4-de16020621ec",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound\\PlacingProductsSFX_new.mp3": {
+    "time": 1732353083725.428,
+    "uuid": "6608c959-4c74-4376-8d1f-1d730939c833",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\btn_blue_l.png": {
+    "time": 1732353085195.5781,
+    "uuid": "510150c3-e33d-48ee-9349-ba9910f2b228",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\HealthBar.png": {
+    "time": 1732353085570.4563,
+    "uuid": "8aad1067-d22d-4193-a36a-a49ef7fbdfc9",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\HealthBar_pts.png": {
+    "time": 1732353085601.7268,
+    "uuid": "ffabf5f7-0bba-4fee-92cd-98e66142c93a",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\HealthBa_new.png": {
+    "time": 1732353085648.952,
+    "uuid": "0edc51f2-8819-4662-98ff-8695f06049b2",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Materials\\desk_stroke.mtl": {
+    "time": 1732353084162.8254,
+    "uuid": "fc73cf11-a375-4d94-9b66-ca4340d580c5",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Materials\\item_stroke.mtl": {
+    "time": 1732353084312.049,
+    "uuid": "846219db-e5c3-446d-8777-c5a1a66ab713",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Animation\\ShowDrinkItem.anim.meta": {
+    "time": 1732353082319.094
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Animation\\ShowJuiceItem.anim.meta": {
+    "time": 1732353082412.795
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\NPC\\NPC_Controller.ts.meta": {
+    "time": 1732353087117.392
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound\\CheckoutSFX_new.mp3.meta": {
+    "time": 1732353083475.4587
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound\\newBG.mp3.meta": {
+    "time": 1732353083647.3215
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound\\PlacingProductsSFX_new.mp3.meta": {
+    "time": 1732353083741.052
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\btn_blue_l.png.meta": {
+    "time": 1732353085211.1936
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\HealthBar.png.meta": {
+    "time": 1732353085586.1047
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\HealthBar_pts.png.meta": {
+    "time": 1732353085633.445
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\HealthBa_new.png.meta": {
+    "time": 1732353085664.6035
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Materials\\desk_stroke.mtl.meta": {
+    "time": 1732353084194.0408
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\SPM\\Materials\\item_stroke.mtl.meta": {
+    "time": 1732353084334.4631
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Animation\\RotatePopup.anim.meta": {
+    "time": 1732354721659.9744
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Animation\\RotatePopup.anim": {
+    "time": 1732354811307.7056,
+    "uuid": "6966dd53-506d-4948-970c-2d6f5d3a26a0",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound\\scaning_new.mp3.meta": {
+    "time": 1732356496933.0637
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\Sound\\scaning_new.mp3": {
+    "time": 1732356478269.1382,
+    "uuid": "666e24c5-86b1-4587-8a78-824886a1402b",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\line_white.png.meta": {
+    "time": 1732353085836.4104
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\line_white.png": {
+    "time": 1732353085820.7896,
+    "uuid": "93f7c061-bd10-46e3-9893-77443ef19913",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\facebook-angry-emoji-emoticon-logo-4EC357E553-seeklogo.com.png.meta": {
+    "time": 1732353085930.1384
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\facebook-angry-emoji-emoticon-logo-4EC357E553-seeklogo.com.png": {
+    "time": 1732353085898.9236,
+    "uuid": "d2e4d7fd-9dcb-4bd6-8eaa-4b155bd997f1",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\Emoji-Trail.png.meta": {
+    "time": 1732353085883.303
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\Emoji-Trail.png": {
+    "time": 1732353085867.6821,
+    "uuid": "202e52b3-830c-43fc-97c7-2710d2c14f64",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\tut_dashline_ellipse.png.meta": {
+    "time": 1732353086180.0796
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Art\\Asset 3D (1)\\SPM\\UI\\tut_dashline_ellipse.png": {
+    "time": 1732353086148.839,
+    "uuid": "9a5528e9-c757-407d-a034-dc53e97760a0",
+    "missing": false
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\NPC\\NPC_Customer.ts.meta": {
+    "time": 1732357468489.0222
+  },
+  "C:\\Users\\PC GM\\Desktop\\Jobs\\IkamePA\\ikame_pa_test\\assets\\Scripts\\NPC\\NPC_Customer.ts": {
+    "time": 1732359018653.6262,
+    "uuid": "cf75c160-47e9-4bc6-9107-9179cf276d83",
+    "missing": false
+  }
+}
